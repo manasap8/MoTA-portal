@@ -1,0 +1,8 @@
+{
+  "name": "Tribal Scholarship & Fellowship Portal",
+  "description": "AI-Assisted Digital Scholarship Administration Platform for Ministry of Tribal Affairs (MoTA), Government of India (NFST & NOS Schemes).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

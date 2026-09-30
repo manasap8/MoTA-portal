@@ -1,0 +1,3644 @@
+{
+  "users": [
+    {
+      "id": "usr_applicant_0",
+      "email": "applicant@demo.com",
+      "passwordHash": "$2b$10$6w0hAjJYJHtyjtJndSq4ROc/xqb8KbzXWecbggD87nwncfUj/Q73W",
+      "role": "applicant",
+      "fullName": "Rahul Kumar Soren",
+      "mobile": "9876543210",
+      "active": true,
+      "createdAt": "2025-01-10T09:00:00.000Z"
+    },
+    {
+      "id": "usr_officer_0",
+      "email": "officer@demo.com",
+      "passwordHash": "$2b$10$6w0hAjJYJHtyjtJndSq4ROc/xqb8KbzXWecbggD87nwncfUj/Q73W",
+      "role": "officer",
+      "fullName": "Dr. Anita Meena",
+      "mobile": "9876543211",
+      "active": true,
+      "createdAt": "2025-01-05T09:00:00.000Z"
+    },
+    {
+      "id": "usr_selection_0",
+      "email": "selection@demo.com",
+      "passwordHash": "$2b$10$6w0hAjJYJHtyjtJndSq4ROc/xqb8KbzXWecbggD87nwncfUj/Q73W",
+      "role": "selection",
+      "fullName": "Shri Rajesh Gond",
+      "mobile": "9876543212",
+      "active": true,
+      "createdAt": "2025-01-05T09:00:00.000Z"
+    },
+    {
+      "id": "usr_admin_0",
+      "email": "admin@demo.com",
+      "passwordHash": "$2b$10$6w0hAjJYJHtyjtJndSq4ROc/xqb8KbzXWecbggD87nwncfUj/Q73W",
+      "role": "admin",
+      "fullName": "Super Administrator MoTA",
+      "mobile": "9876543213",
+      "active": true,
+      "createdAt": "2025-01-01T09:00:00.000Z"
+    },
+    {
+      "id": "usr_applicant_1",
+      "email": "applicant1@demo.com",
+      "passwordHash": "$2b$10$6w0hAjJYJHtyjtJndSq4ROc/xqb8KbzXWecbggD87nwncfUj/Q73W",
+      "role": "applicant",
+      "fullName": "Sunita Kerketta",
+      "mobile": "9876543220",
+      "active": true,
+      "createdAt": "2025-01-10T09:00:00.000Z"
+    },
+    {
+      "id": "usr_applicant_2",
+      "email": "applicant2@demo.com",
+      "passwordHash": "$2b$10$6w0hAjJYJHtyjtJndSq4ROc/xqb8KbzXWecbggD87nwncfUj/Q73W",
+      "role": "applicant",
+      "fullName": "Bikash Oraon",
+      "mobile": "9876543221",
+      "active": true,
+      "createdAt": "2025-01-10T09:00:00.000Z"
+    },
+    {
+      "id": "usr_applicant_3",
+      "email": "applicant3@demo.com",
+      "passwordHash": "$2b$10$6w0hAjJYJHtyjtJndSq4ROc/xqb8KbzXWecbggD87nwncfUj/Q73W",
+      "role": "applicant",
+      "fullName": "Pooja Maravi",
+      "mobile": "9876543222",
+      "active": true,
+      "createdAt": "2025-01-10T09:00:00.000Z"
+    },
+    {
+      "id": "usr_applicant_4",
+      "email": "applicant4@demo.com",
+      "passwordHash": "$2b$10$6w0hAjJYJHtyjtJndSq4ROc/xqb8KbzXWecbggD87nwncfUj/Q73W",
+      "role": "applicant",
+      "fullName": "Kishan Munda",
+      "mobile": "9876543223",
+      "active": true,
+      "createdAt": "2025-01-10T09:00:00.000Z"
+    },
+    {
+      "id": "usr_applicant_5",
+      "email": "applicant5@demo.com",
+      "passwordHash": "$2b$10$6w0hAjJYJHtyjtJndSq4ROc/xqb8KbzXWecbggD87nwncfUj/Q73W",
+      "role": "applicant",
+      "fullName": "Anjali Bhil",
+      "mobile": "9876543224",
+      "active": true,
+      "createdAt": "2025-01-10T09:00:00.000Z"
+    },
+    {
+      "id": "usr_applicant_6",
+      "email": "applicant6@demo.com",
+      "passwordHash": "$2b$10$6w0hAjJYJHtyjtJndSq4ROc/xqb8KbzXWecbggD87nwncfUj/Q73W",
+      "role": "applicant",
+      "fullName": "Lalit Rathwa",
+      "mobile": "9876543225",
+      "active": true,
+      "createdAt": "2025-01-10T09:00:00.000Z"
+    },
+    {
+      "id": "usr_applicant_7",
+      "email": "applicant7@demo.com",
+      "passwordHash": "$2b$10$6w0hAjJYJHtyjtJndSq4ROc/xqb8KbzXWecbggD87nwncfUj/Q73W",
+      "role": "applicant",
+      "fullName": "Priya Nayak",
+      "mobile": "9876543226",
+      "active": true,
+      "createdAt": "2025-01-10T09:00:00.000Z"
+    },
+    {
+      "id": "usr_applicant_8",
+      "email": "applicant8@demo.com",
+      "passwordHash": "$2b$10$6w0hAjJYJHtyjtJndSq4ROc/xqb8KbzXWecbggD87nwncfUj/Q73W",
+      "role": "applicant",
+      "fullName": "Deepak Gamit",
+      "mobile": "9876543227",
+      "active": true,
+      "createdAt": "2025-01-10T09:00:00.000Z"
+    },
+    {
+      "id": "usr_applicant_9",
+      "email": "applicant9@demo.com",
+      "passwordHash": "$2b$10$6w0hAjJYJHtyjtJndSq4ROc/xqb8KbzXWecbggD87nwncfUj/Q73W",
+      "role": "applicant",
+      "fullName": "Vikram Jamatia",
+      "mobile": "9876543228",
+      "active": true,
+      "createdAt": "2025-01-10T09:00:00.000Z"
+    },
+    {
+      "id": "usr_applicant_10",
+      "email": "applicant10@demo.com",
+      "passwordHash": "$2b$10$6w0hAjJYJHtyjtJndSq4ROc/xqb8KbzXWecbggD87nwncfUj/Q73W",
+      "role": "applicant",
+      "fullName": "Kavita Deori",
+      "mobile": "9876543229",
+      "active": true,
+      "createdAt": "2025-01-10T09:00:00.000Z"
+    },
+    {
+      "id": "usr_1790776522723_ghcf1",
+      "email": "rahul@gmail.com",
+      "passwordHash": "$2b$10$0axWXM3VUN.luXBa/wQdrONl4Du5p2UarOVYRGY5ZT8DCJ4TUMMgq",
+      "role": "applicant",
+      "fullName": "rahul",
+      "mobile": "9214965231",
+      "active": true,
+      "createdAt": "2026-09-30T13:55:22.723Z"
+    }
+  ],
+  "applicants": [
+    {
+      "id": "app_prof_0",
+      "userId": "usr_applicant_0",
+      "fullName": "Rahul Kumar Soren",
+      "email": "applicant@demo.com",
+      "mobile": "9876543210",
+      "dob": "1998-05-12",
+      "gender": "Male",
+      "state": "Jharkhand",
+      "district": "Ranchi",
+      "category": "ST",
+      "stCertNumber": "ST/JH/2023/88492",
+      "stCertAuthority": "Sub-Divisional Officer, Ranchi",
+      "stCertDate": "2023-04-15",
+      "qualification": "Master's degree",
+      "annualIncome": 320000,
+      "address": "Plot 42, Birsa Nagar, Kanke Road",
+      "pincode": "834008",
+      "bankName": "State Bank of India",
+      "accountNumber": "30987654321",
+      "ifscCode": "SBIN0001234",
+      "profileCompleted": true,
+      "updatedAt": "2025-01-12T10:00:00.000Z"
+    },
+    {
+      "id": "app_prof_1",
+      "userId": "usr_applicant_1",
+      "fullName": "Sunita Kerketta",
+      "email": "applicant1@demo.com",
+      "mobile": "9876543220",
+      "dob": "1997-08-19",
+      "gender": "Female",
+      "state": "Jharkhand",
+      "district": "Ranchi",
+      "category": "ST",
+      "stCertNumber": "ST/JH/2023/70000",
+      "stCertAuthority": "Sub-Divisional Officer, Ranchi",
+      "stCertDate": "2023-05-10",
+      "qualification": "Master's degree",
+      "annualIncome": 340000,
+      "address": "Ward 1, Tribal Colony, Ranchi",
+      "pincode": "450001",
+      "bankName": "Punjab National Bank",
+      "accountNumber": "20987654310",
+      "ifscCode": "PUNB0123400",
+      "profileCompleted": true,
+      "updatedAt": "2025-01-12T10:00:00.000Z"
+    },
+    {
+      "id": "app_prof_2",
+      "userId": "usr_applicant_2",
+      "fullName": "Bikash Oraon",
+      "email": "applicant2@demo.com",
+      "mobile": "9876543221",
+      "dob": "1997-08-19",
+      "gender": "Male",
+      "state": "Odisha",
+      "district": "Mayurbhanj",
+      "category": "ST",
+      "stCertNumber": "ST/OD/2023/70001",
+      "stCertAuthority": "Sub-Divisional Officer, Mayurbhanj",
+      "stCertDate": "2023-05-10",
+      "qualification": "Master's degree",
+      "annualIncome": 290000,
+      "address": "Ward 2, Tribal Colony, Mayurbhanj",
+      "pincode": "450001",
+      "bankName": "Punjab National Bank",
+      "accountNumber": "20987654311",
+      "ifscCode": "PUNB0123400",
+      "profileCompleted": true,
+      "updatedAt": "2025-01-12T10:00:00.000Z"
+    },
+    {
+      "id": "app_prof_3",
+      "userId": "usr_applicant_3",
+      "fullName": "Pooja Maravi",
+      "email": "applicant3@demo.com",
+      "mobile": "9876543222",
+      "dob": "1997-08-19",
+      "gender": "Female",
+      "state": "Madhya Pradesh",
+      "district": "Mandla",
+      "category": "ST",
+      "stCertNumber": "ST/MA/2023/70002",
+      "stCertAuthority": "Sub-Divisional Officer, Mandla",
+      "stCertDate": "2023-05-10",
+      "qualification": "Master's degree",
+      "annualIncome": 420000,
+      "address": "Ward 3, Tribal Colony, Mandla",
+      "pincode": "450001",
+      "bankName": "Punjab National Bank",
+      "accountNumber": "20987654312",
+      "ifscCode": "PUNB0123400",
+      "profileCompleted": true,
+      "updatedAt": "2025-01-12T10:00:00.000Z"
+    },
+    {
+      "id": "app_prof_4",
+      "userId": "usr_applicant_4",
+      "fullName": "Kishan Munda",
+      "email": "applicant4@demo.com",
+      "mobile": "9876543223",
+      "dob": "1997-08-19",
+      "gender": "Male",
+      "state": "Jharkhand",
+      "district": "Khunti",
+      "category": "ST",
+      "stCertNumber": "ST/JH/2023/70003",
+      "stCertAuthority": "Sub-Divisional Officer, Khunti",
+      "stCertDate": "2023-05-10",
+      "qualification": "Master's degree",
+      "annualIncome": 380000,
+      "address": "Ward 4, Tribal Colony, Khunti",
+      "pincode": "450001",
+      "bankName": "Punjab National Bank",
+      "accountNumber": "20987654313",
+      "ifscCode": "PUNB0123400",
+      "profileCompleted": true,
+      "updatedAt": "2025-01-12T10:00:00.000Z"
+    },
+    {
+      "id": "app_prof_5",
+      "userId": "usr_applicant_5",
+      "fullName": "Anjali Bhil",
+      "email": "applicant5@demo.com",
+      "mobile": "9876543224",
+      "dob": "1997-08-19",
+      "gender": "Female",
+      "state": "Rajasthan",
+      "district": "Udaipur",
+      "category": "ST",
+      "stCertNumber": "ST/RA/2023/70004",
+      "stCertAuthority": "Sub-Divisional Officer, Udaipur",
+      "stCertDate": "2023-05-10",
+      "qualification": "Master's degree",
+      "annualIncome": 310000,
+      "address": "Ward 5, Tribal Colony, Udaipur",
+      "pincode": "450001",
+      "bankName": "Punjab National Bank",
+      "accountNumber": "20987654314",
+      "ifscCode": "PUNB0123400",
+      "profileCompleted": true,
+      "updatedAt": "2025-01-12T10:00:00.000Z"
+    },
+    {
+      "id": "app_prof_6",
+      "userId": "usr_applicant_6",
+      "fullName": "Lalit Rathwa",
+      "email": "applicant6@demo.com",
+      "mobile": "9876543225",
+      "dob": "1997-08-19",
+      "gender": "Male",
+      "state": "Gujarat",
+      "district": "Chhota Udaipur",
+      "category": "ST",
+      "stCertNumber": "ST/GU/2023/70005",
+      "stCertAuthority": "Sub-Divisional Officer, Chhota Udaipur",
+      "stCertDate": "2023-05-10",
+      "qualification": "Master's degree",
+      "annualIncome": 450000,
+      "address": "Ward 6, Tribal Colony, Chhota Udaipur",
+      "pincode": "450001",
+      "bankName": "Punjab National Bank",
+      "accountNumber": "20987654315",
+      "ifscCode": "PUNB0123400",
+      "profileCompleted": true,
+      "updatedAt": "2025-01-12T10:00:00.000Z"
+    },
+    {
+      "id": "app_prof_7",
+      "userId": "usr_applicant_7",
+      "fullName": "Priya Nayak",
+      "email": "applicant7@demo.com",
+      "mobile": "9876543226",
+      "dob": "1997-08-19",
+      "gender": "Female",
+      "state": "Chhattisgarh",
+      "district": "Bastar",
+      "category": "ST",
+      "stCertNumber": "ST/CH/2023/70006",
+      "stCertAuthority": "Sub-Divisional Officer, Bastar",
+      "stCertDate": "2023-05-10",
+      "qualification": "Master's degree",
+      "annualIncome": 260000,
+      "address": "Ward 7, Tribal Colony, Bastar",
+      "pincode": "450001",
+      "bankName": "Punjab National Bank",
+      "accountNumber": "20987654316",
+      "ifscCode": "PUNB0123400",
+      "profileCompleted": true,
+      "updatedAt": "2025-01-12T10:00:00.000Z"
+    },
+    {
+      "id": "app_prof_8",
+      "userId": "usr_applicant_8",
+      "fullName": "Deepak Gamit",
+      "email": "applicant8@demo.com",
+      "mobile": "9876543227",
+      "dob": "1997-08-19",
+      "gender": "Male",
+      "state": "Gujarat",
+      "district": "Tapi",
+      "category": "ST",
+      "stCertNumber": "ST/GU/2023/70007",
+      "stCertAuthority": "Sub-Divisional Officer, Tapi",
+      "stCertDate": "2023-05-10",
+      "qualification": "Master's degree",
+      "annualIncome": 390000,
+      "address": "Ward 8, Tribal Colony, Tapi",
+      "pincode": "450001",
+      "bankName": "Punjab National Bank",
+      "accountNumber": "20987654317",
+      "ifscCode": "PUNB0123400",
+      "profileCompleted": true,
+      "updatedAt": "2025-01-12T10:00:00.000Z"
+    },
+    {
+      "id": "app_prof_9",
+      "userId": "usr_applicant_9",
+      "fullName": "Vikram Jamatia",
+      "email": "applicant9@demo.com",
+      "mobile": "9876543228",
+      "dob": "1997-08-19",
+      "gender": "Female",
+      "state": "Tripura",
+      "district": "Gomati",
+      "category": "ST",
+      "stCertNumber": "ST/TR/2023/70008",
+      "stCertAuthority": "Sub-Divisional Officer, Gomati",
+      "stCertDate": "2023-05-10",
+      "qualification": "Master's degree",
+      "annualIncome": 850000,
+      "address": "Ward 9, Tribal Colony, Gomati",
+      "pincode": "450001",
+      "bankName": "Punjab National Bank",
+      "accountNumber": "20987654318",
+      "ifscCode": "PUNB0123400",
+      "profileCompleted": true,
+      "updatedAt": "2025-01-12T10:00:00.000Z"
+    },
+    {
+      "id": "app_prof_10",
+      "userId": "usr_applicant_10",
+      "fullName": "Kavita Deori",
+      "email": "applicant10@demo.com",
+      "mobile": "9876543229",
+      "dob": "1997-08-19",
+      "gender": "Male",
+      "state": "Assam",
+      "district": "Lakhimpur",
+      "category": "ST",
+      "stCertNumber": "ST/AS/2023/70009",
+      "stCertAuthority": "Sub-Divisional Officer, Lakhimpur",
+      "stCertDate": "2023-05-10",
+      "qualification": "Master's degree",
+      "annualIncome": 315000,
+      "address": "Ward 10, Tribal Colony, Lakhimpur",
+      "pincode": "450001",
+      "bankName": "Punjab National Bank",
+      "accountNumber": "20987654319",
+      "ifscCode": "PUNB0123400",
+      "profileCompleted": true,
+      "updatedAt": "2025-01-12T10:00:00.000Z"
+    },
+    {
+      "id": "app_prof_1790776522725",
+      "userId": "usr_1790776522723_ghcf1",
+      "fullName": "rahul",
+      "email": "rahul@gmail.com",
+      "mobile": "9214965231",
+      "dob": "1998-05-12",
+      "gender": "Male",
+      "state": "Jharkhand",
+      "district": "Ranchi",
+      "category": "ST",
+      "stCertNumber": "",
+      "stCertAuthority": "",
+      "stCertDate": "",
+      "qualification": "Master's degree",
+      "annualIncome": 300000,
+      "address": "",
+      "pincode": "",
+      "bankName": "",
+      "accountNumber": "",
+      "ifscCode": "",
+      "profileCompleted": false,
+      "updatedAt": "2026-09-30T13:55:22.725Z"
+    }
+  ],
+  "schemes": [
+    {
+      "id": "scheme_nfst",
+      "code": "NFST",
+      "name": "National Fellowship for Scheduled Tribe Students",
+      "fullName": "National Fellowship and Scholarship for Higher Education of ST Students (NFST)",
+      "description": "Fellowship for ST students pursuing M.Phil and Ph.D. degrees in Indian Universities and Research Institutions.",
+      "applicationStart": "2025-01-01",
+      "applicationEnd": "2025-11-30",
+      "active": true,
+      "totalSeats": 750,
+      "academicYear": "2025-26",
+      "formSections": [
+        {
+          "key": "personal",
+          "title": "Personal Details",
+          "description": "Basic identity information of the applicant.",
+          "fields": [
+            {
+              "key": "fullName",
+              "label": "Full Name (as in certificates)",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "fatherName",
+              "label": "Father's / Guardian's Name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "dob",
+              "label": "Date of Birth",
+              "type": "date",
+              "required": true
+            },
+            {
+              "key": "gender",
+              "label": "Gender",
+              "type": "select",
+              "options": [
+                "Male",
+                "Female",
+                "Other"
+              ],
+              "required": true
+            }
+          ]
+        },
+        {
+          "key": "category",
+          "title": "Tribal / Category Information",
+          "description": "Scheduled Tribe credentials and issuing details.",
+          "fields": [
+            {
+              "key": "category",
+              "label": "Category",
+              "type": "select",
+              "options": [
+                "ST"
+              ],
+              "required": true
+            },
+            {
+              "key": "subTribe",
+              "label": "Sub-Tribe / Community Name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "stCertNumber",
+              "label": "ST Certificate Number",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "stCertAuthority",
+              "label": "Issuing Authority",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "stCertDate",
+              "label": "Date of Certificate Issue",
+              "type": "date",
+              "required": true
+            }
+          ]
+        },
+        {
+          "key": "education",
+          "title": "Educational Qualifications",
+          "description": "Postgraduate and graduate degree scores.",
+          "fields": [
+            {
+              "key": "highestQualification",
+              "label": "Highest Qualification Attained",
+              "type": "select",
+              "options": [
+                "Master's degree",
+                "M.Phil",
+                "Bachelor's degree"
+              ],
+              "required": true
+            },
+            {
+              "key": "postgraduateDegree",
+              "label": "Postgraduate Degree Title",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "postgraduatePercentage",
+              "label": "Postgraduate Aggregate Percentage (%)",
+              "type": "number",
+              "required": true
+            },
+            {
+              "key": "ugDegree",
+              "label": "Undergraduate Degree",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "ugPercentage",
+              "label": "UG Marks Percentage (%)",
+              "type": "number",
+              "required": true
+            }
+          ]
+        },
+        {
+          "key": "research",
+          "title": "Research Programme & Institution",
+          "description": "Enrolment in Ph.D. or M.Phil in India.",
+          "fields": [
+            {
+              "key": "enrolledInResearch",
+              "label": "Are you enrolled in M.Phil / Ph.D. in an Indian University?",
+              "type": "select",
+              "options": [
+                "yes",
+                "no"
+              ],
+              "required": true
+            },
+            {
+              "key": "researchInstitution",
+              "label": "University / Institute Name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "researchDepartment",
+              "label": "Department / Faculty",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "researchTopic",
+              "label": "Title / Subject of Research Thesis",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "enrolmentDate",
+              "label": "Admission / Enrolment Date",
+              "type": "date",
+              "required": true
+            }
+          ]
+        },
+        {
+          "key": "financial",
+          "title": "Income and Financial Details",
+          "description": "Annual family income from all sources.",
+          "fields": [
+            {
+              "key": "annualIncome",
+              "label": "Total Annual Family Income (INR)",
+              "type": "number",
+              "required": true
+            },
+            {
+              "key": "incomeCertNumber",
+              "label": "Income Certificate Number",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "incomeCertIssueDate",
+              "label": "Income Certificate Issue Date",
+              "type": "date",
+              "required": true
+            }
+          ]
+        },
+        {
+          "key": "bank",
+          "title": "Bank Account for Direct Benefit Transfer",
+          "description": "Aadhaar-seeded bank account for scholarship disbursements.",
+          "fields": [
+            {
+              "key": "bankName",
+              "label": "Bank Name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "accountNumber",
+              "label": "Account Number",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "ifscCode",
+              "label": "IFSC Code",
+              "type": "text",
+              "required": true
+            }
+          ]
+        },
+        {
+          "key": "declaration",
+          "title": "Applicant Declaration",
+          "description": "Statutory acknowledgement.",
+          "fields": [
+            {
+              "key": "agreedTerms",
+              "label": "I declare all information and certificates provided are authentic and truthful.",
+              "type": "checkbox",
+              "required": true
+            }
+          ]
+        }
+      ],
+      "requiredDocuments": [
+        {
+          "id": "req_st_cert",
+          "code": "st_certificate",
+          "title": "Scheduled Tribe (ST) Certificate",
+          "description": "Competent revenue authority issued ST certificate",
+          "mandatory": true,
+          "allowedFormats": [
+            "application/pdf",
+            "image/jpeg",
+            "image/png"
+          ],
+          "maxSizeMB": 5
+        },
+        {
+          "id": "req_income_cert",
+          "code": "income_certificate",
+          "title": "Annual Family Income Certificate",
+          "description": "Current valid income certificate issued by Tahsildar/SDO",
+          "mandatory": true,
+          "allowedFormats": [
+            "application/pdf",
+            "image/jpeg",
+            "image/png"
+          ],
+          "maxSizeMB": 5
+        },
+        {
+          "id": "req_admission_letter",
+          "code": "admission_letter",
+          "title": "Ph.D. / M.Phil Admission or Enrolment Letter",
+          "description": "Official letter from University Registrar or Dean",
+          "mandatory": true,
+          "allowedFormats": [
+            "application/pdf",
+            "image/jpeg",
+            "image/png"
+          ],
+          "maxSizeMB": 5
+        },
+        {
+          "id": "req_degree_cert",
+          "code": "degree_certificate",
+          "title": "Postgraduate Degree Certificate / Marksheets",
+          "description": "Consolidated marksheet or convocation degree",
+          "mandatory": true,
+          "allowedFormats": [
+            "application/pdf",
+            "image/jpeg",
+            "image/png"
+          ],
+          "maxSizeMB": 5
+        },
+        {
+          "id": "req_research_proposal",
+          "code": "research_proposal",
+          "title": "Research Proposal / Synopsis",
+          "description": "Synopsis signed by research guide/supervisor",
+          "mandatory": true,
+          "allowedFormats": [
+            "application/pdf"
+          ],
+          "maxSizeMB": 5
+        },
+        {
+          "id": "req_bank_passbook",
+          "code": "bank_passbook",
+          "title": "Bank Passbook / Cancelled Cheque",
+          "description": "Showing Account number, IFSC and Name",
+          "mandatory": false,
+          "allowedFormats": [
+            "application/pdf",
+            "image/jpeg"
+          ],
+          "maxSizeMB": 5
+        }
+      ],
+      "eligibilityRules": [
+        {
+          "id": "rule_nfst_cat",
+          "criterion": "Candidate must belong to Scheduled Tribe (ST) community",
+          "type": "required",
+          "targetType": "field",
+          "targetKey": "category",
+          "operator": "equals",
+          "expectedValue": "ST",
+          "weight": 20,
+          "failMessage": "Only candidates from Scheduled Tribe community are eligible for NFST.",
+          "evidenceSource": "ST Certificate"
+        },
+        {
+          "id": "rule_nfst_qual",
+          "criterion": "Candidate must possess Master's degree or M.Phil",
+          "type": "required",
+          "targetType": "field",
+          "targetKey": "highestQualification",
+          "operator": "contains",
+          "expectedValue": [
+            "Master's degree",
+            "M.Phil"
+          ],
+          "weight": 20,
+          "failMessage": "Must possess Master's degree or M.Phil.",
+          "evidenceSource": "Degree Certificate"
+        },
+        {
+          "id": "rule_nfst_marks",
+          "criterion": "Minimum 55% marks in Postgraduate degree",
+          "type": "required",
+          "targetType": "field",
+          "targetKey": "postgraduatePercentage",
+          "operator": "greaterThanOrEqual",
+          "expectedValue": 55,
+          "weight": 20,
+          "failMessage": "Minimum postgraduate score required is 55.0%.",
+          "evidenceSource": "Postgraduate Marksheet"
+        },
+        {
+          "id": "rule_nfst_income",
+          "criterion": "Annual family income must not exceed INR 6,00,000",
+          "type": "required",
+          "targetType": "field",
+          "targetKey": "annualIncome",
+          "operator": "lessThanOrEqual",
+          "expectedValue": 600000,
+          "weight": 15,
+          "failMessage": "Family income exceeds ceiling of ₹6,00,000.",
+          "evidenceSource": "Income Certificate"
+        },
+        {
+          "id": "rule_nfst_enrolled",
+          "criterion": "Must be actively enrolled in Ph.D. or M.Phil in India",
+          "type": "required",
+          "targetType": "field",
+          "targetKey": "enrolledInResearch",
+          "operator": "equals",
+          "expectedValue": "yes",
+          "weight": 15,
+          "failMessage": "Candidate must have confirmed enrolment in research programme.",
+          "evidenceSource": "Admission Letter"
+        },
+        {
+          "id": "rule_nfst_doc_st",
+          "criterion": "Scheduled Tribe certificate uploaded and verified",
+          "type": "required",
+          "targetType": "document",
+          "targetKey": "st_certificate",
+          "operator": "documentVerified",
+          "expectedValue": true,
+          "weight": 10,
+          "failMessage": "ST certificate requires officer verification.",
+          "evidenceSource": "Uploaded ST Document"
+        }
+      ],
+      "selectionCriteria": [
+        {
+          "id": "crit_acad",
+          "code": "ACAD",
+          "label": "Academic Merit (PG Marks)",
+          "description": "Postgraduate percentage scaled to 40 points",
+          "weight": 40,
+          "sourceType": "academic"
+        },
+        {
+          "id": "crit_relevance",
+          "code": "RESEARCH",
+          "label": "Research Proposal Relevance",
+          "description": "Relevance to tribal development, linguistics, indigenous sciences",
+          "weight": 30,
+          "sourceType": "research"
+        },
+        {
+          "id": "crit_doc_verif",
+          "code": "VERIF",
+          "label": "Document Completeness & Verification",
+          "description": "Verification completeness of all statutory certificates",
+          "weight": 20,
+          "sourceType": "verification"
+        },
+        {
+          "id": "crit_consistency",
+          "code": "CONSISTENCY",
+          "label": "Consistency & Integrity Assurance",
+          "description": "Bonus score based on automated document cross-checks",
+          "weight": 10,
+          "sourceType": "risk_penalty"
+        }
+      ],
+      "workflowStages": [
+        {
+          "id": "stg_1",
+          "order": 1,
+          "code": "SUBMITTED",
+          "name": "Application Submitted",
+          "description": "Application filed and initial sanity checks completed",
+          "assignedRole": "applicant"
+        },
+        {
+          "id": "stg_2",
+          "order": 2,
+          "code": "DOC_VERIF",
+          "name": "Document Verification",
+          "description": "Scrutiny of original documents and OCR data by Verification Officer",
+          "assignedRole": "officer"
+        },
+        {
+          "id": "stg_3",
+          "order": 3,
+          "code": "ELIG_EVAL",
+          "name": "Eligibility Review",
+          "description": "Automated rule engine evaluation and officer sign-off",
+          "assignedRole": "officer"
+        },
+        {
+          "id": "stg_4",
+          "order": 4,
+          "code": "SCREENING",
+          "name": "Merit Screening",
+          "description": "Ranking and score computation based on selection criteria",
+          "assignedRole": "selection"
+        },
+        {
+          "id": "stg_5",
+          "order": 5,
+          "code": "FINAL_DECISION",
+          "name": "Final Selection",
+          "description": "Final award decision and selection list publication",
+          "assignedRole": "selection"
+        },
+        {
+          "id": "stg_6",
+          "order": 6,
+          "code": "POST_SELECTION",
+          "name": "Post-Selection Monitoring",
+          "description": "Joining reports, progress submissions and fellowship continuations",
+          "assignedRole": "officer"
+        }
+      ]
+    },
+    {
+      "id": "scheme_nos",
+      "code": "NOS",
+      "name": "National Overseas Scholarship for ST Students",
+      "fullName": "National Overseas Scholarship for Higher Studies Abroad for Scheduled Tribe Candidates",
+      "description": "Scholarship support for ST students to pursue Master level courses and Ph.D. abroad in prestigious global universities.",
+      "applicationStart": "2025-01-01",
+      "applicationEnd": "2025-11-30",
+      "active": true,
+      "totalSeats": 100,
+      "academicYear": "2025-26",
+      "formSections": [
+        {
+          "key": "personal",
+          "title": "Personal & Passport Details",
+          "description": "Identity details and passport validity.",
+          "fields": [
+            {
+              "key": "fullName",
+              "label": "Full Name as per Passport",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "dob",
+              "label": "Date of Birth",
+              "type": "date",
+              "required": true
+            },
+            {
+              "key": "age",
+              "label": "Age (as on cutoff date)",
+              "type": "number",
+              "required": true
+            },
+            {
+              "key": "passportNumber",
+              "label": "Passport Number",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "passportExpiry",
+              "label": "Passport Expiry Date",
+              "type": "date",
+              "required": true
+            }
+          ]
+        },
+        {
+          "key": "category",
+          "title": "Category Details",
+          "fields": [
+            {
+              "key": "category",
+              "label": "Category",
+              "type": "select",
+              "options": [
+                "ST"
+              ],
+              "required": true
+            },
+            {
+              "key": "stCertNumber",
+              "label": "ST Certificate Number",
+              "type": "text",
+              "required": true
+            }
+          ]
+        },
+        {
+          "key": "foreign_admission",
+          "title": "Foreign University Admission Details",
+          "description": "Details of unconditional offer from recognized foreign university.",
+          "fields": [
+            {
+              "key": "foreignOffer",
+              "label": "Do you hold an admission offer from a foreign university?",
+              "type": "select",
+              "options": [
+                "yes",
+                "no"
+              ],
+              "required": true
+            },
+            {
+              "key": "foreignUniversity",
+              "label": "Foreign University Name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "foreignCountry",
+              "label": "Country of Study",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "degreeAbroad",
+              "label": "Degree to be Pursued",
+              "type": "select",
+              "options": [
+                "Master's",
+                "Ph.D."
+              ],
+              "required": true
+            },
+            {
+              "key": "qsRanking",
+              "label": "University QS World Ranking (approx)",
+              "type": "number",
+              "required": true
+            }
+          ]
+        },
+        {
+          "key": "education",
+          "title": "Previous Qualifying Degree",
+          "fields": [
+            {
+              "key": "qualifyingDegree",
+              "label": "Qualifying Degree Completed",
+              "type": "select",
+              "options": [
+                "Bachelor's degree",
+                "Master's degree"
+              ],
+              "required": true
+            },
+            {
+              "key": "marksPercentage",
+              "label": "Qualifying Examination Percentage (%)",
+              "type": "number",
+              "required": true
+            }
+          ]
+        },
+        {
+          "key": "financial",
+          "title": "Family Financial Details",
+          "fields": [
+            {
+              "key": "annualIncome",
+              "label": "Total Annual Family Income (INR)",
+              "type": "number",
+              "required": true
+            }
+          ]
+        },
+        {
+          "key": "declaration",
+          "title": "Statutory Declaration",
+          "fields": [
+            {
+              "key": "agreedTerms",
+              "label": "I confirm willingness to serve in India after completion of studies.",
+              "type": "checkbox",
+              "required": true
+            }
+          ]
+        }
+      ],
+      "requiredDocuments": [
+        {
+          "id": "req_nos_st",
+          "code": "st_certificate",
+          "title": "Scheduled Tribe Certificate",
+          "description": "Certified ST status document",
+          "mandatory": true,
+          "allowedFormats": [
+            "application/pdf",
+            "image/jpeg"
+          ],
+          "maxSizeMB": 5
+        },
+        {
+          "id": "req_nos_income",
+          "code": "income_certificate",
+          "title": "Income Certificate",
+          "description": "Current valid family income certificate",
+          "mandatory": true,
+          "allowedFormats": [
+            "application/pdf",
+            "image/jpeg"
+          ],
+          "maxSizeMB": 5
+        },
+        {
+          "id": "req_nos_passport",
+          "code": "passport",
+          "title": "Valid Indian Passport",
+          "description": "Scanned copy of bio-data and address pages",
+          "mandatory": true,
+          "allowedFormats": [
+            "application/pdf"
+          ],
+          "maxSizeMB": 5
+        },
+        {
+          "id": "req_nos_offer",
+          "code": "admission_letter",
+          "title": "Unconditional Admission Offer Letter",
+          "description": "Official offer letter from overseas institution",
+          "mandatory": true,
+          "allowedFormats": [
+            "application/pdf"
+          ],
+          "maxSizeMB": 5
+        },
+        {
+          "id": "req_nos_degree",
+          "code": "degree_certificate",
+          "title": "Qualifying Degree Certificate & Transcripts",
+          "description": "Complete transcripts with GPA/percentage",
+          "mandatory": true,
+          "allowedFormats": [
+            "application/pdf"
+          ],
+          "maxSizeMB": 5
+        }
+      ],
+      "eligibilityRules": [
+        {
+          "id": "rule_nos_cat",
+          "criterion": "Must belong to Scheduled Tribe (ST)",
+          "type": "required",
+          "targetType": "field",
+          "targetKey": "category",
+          "operator": "equals",
+          "expectedValue": "ST",
+          "weight": 20,
+          "failMessage": "ST category mandatory for NOS.",
+          "evidenceSource": "ST Certificate"
+        },
+        {
+          "id": "rule_nos_age",
+          "criterion": "Age must not exceed 35 years as on cutoff date",
+          "type": "required",
+          "targetType": "field",
+          "targetKey": "age",
+          "operator": "lessThanOrEqual",
+          "expectedValue": 35,
+          "weight": 20,
+          "failMessage": "Age exceeds the permissible cutoff limit of 35 years.",
+          "evidenceSource": "Passport / Birth Certificate"
+        },
+        {
+          "id": "rule_nos_marks",
+          "criterion": "Minimum 60% marks in qualifying degree",
+          "type": "required",
+          "targetType": "field",
+          "targetKey": "marksPercentage",
+          "operator": "greaterThanOrEqual",
+          "expectedValue": 60,
+          "weight": 20,
+          "failMessage": "Minimum qualifying mark required for NOS is 60.0%.",
+          "evidenceSource": "Degree Transcripts"
+        },
+        {
+          "id": "rule_nos_income",
+          "criterion": "Family income must not exceed INR 6,00,000 per annum",
+          "type": "required",
+          "targetType": "field",
+          "targetKey": "annualIncome",
+          "operator": "lessThanOrEqual",
+          "expectedValue": 600000,
+          "weight": 20,
+          "failMessage": "Income exceeds ceiling of ₹6,00,000.",
+          "evidenceSource": "Income Certificate"
+        },
+        {
+          "id": "rule_nos_offer",
+          "criterion": "Must have confirmed admission offer from overseas university",
+          "type": "required",
+          "targetType": "field",
+          "targetKey": "foreignOffer",
+          "operator": "equals",
+          "expectedValue": "yes",
+          "weight": 20,
+          "failMessage": "Must possess confirmed admission offer letter.",
+          "evidenceSource": "Offer Letter"
+        }
+      ],
+      "selectionCriteria": [
+        {
+          "id": "crit_nos_ranking",
+          "code": "QS_RANK",
+          "label": "University QS Ranking Tier",
+          "description": "Tier 1 (1-200): 40pts, Tier 2 (201-500): 30pts",
+          "weight": 40,
+          "sourceType": "academic"
+        },
+        {
+          "id": "crit_nos_marks",
+          "code": "MARKS",
+          "label": "Undergraduate/PG Transcripts Score",
+          "description": "Percentage scaled to 30 points",
+          "weight": 30,
+          "sourceType": "academic"
+        },
+        {
+          "id": "crit_nos_verif",
+          "code": "VERIF",
+          "label": "Document Verification Completeness",
+          "description": "All verified documents without deficiency",
+          "weight": 20,
+          "sourceType": "verification"
+        },
+        {
+          "id": "crit_nos_integrity",
+          "code": "INTEG",
+          "label": "Consistency & Integrity Assurance",
+          "description": "Document alignment bonus",
+          "weight": 10,
+          "sourceType": "risk_penalty"
+        }
+      ],
+      "workflowStages": [
+        {
+          "id": "nos_stg_1",
+          "order": 1,
+          "code": "SUBMITTED",
+          "name": "Application Submitted",
+          "description": "Application filed",
+          "assignedRole": "applicant"
+        },
+        {
+          "id": "nos_stg_2",
+          "order": 2,
+          "code": "DOC_VERIF",
+          "name": "Document Verification",
+          "description": "Passport and overseas offer verification",
+          "assignedRole": "officer"
+        },
+        {
+          "id": "nos_stg_3",
+          "order": 3,
+          "code": "ELIG_EVAL",
+          "name": "Eligibility Review",
+          "description": "Age and income threshold validation",
+          "assignedRole": "officer"
+        },
+        {
+          "id": "nos_stg_4",
+          "order": 4,
+          "code": "SCREENING",
+          "name": "Merit Screening",
+          "description": "QS ranking and merit evaluation",
+          "assignedRole": "selection"
+        },
+        {
+          "id": "nos_stg_5",
+          "order": 5,
+          "code": "FINAL_DECISION",
+          "name": "Final Selection",
+          "description": "Provisional award notification",
+          "assignedRole": "selection"
+        },
+        {
+          "id": "nos_stg_6",
+          "order": 6,
+          "code": "POST_SELECTION",
+          "name": "Post-Selection Monitoring",
+          "description": "Visa clearance and university enrollment letter",
+          "assignedRole": "officer"
+        }
+      ]
+    }
+  ],
+  "applications": [
+    {
+      "id": "app_1",
+      "applicationNumber": "NFST-2025-001",
+      "schemeId": "scheme_nfst",
+      "applicantId": "app_prof_0",
+      "applicantName": "Rahul Kumar Soren",
+      "applicantEmail": "applicant@demo.com",
+      "status": "Eligible",
+      "currentStage": "ELIG_EVAL",
+      "createdAt": "2025-01-15T08:30:00.000Z",
+      "submittedAt": "2025-01-16T10:15:00.000Z",
+      "lastUpdatedAt": "2025-01-20T14:00:00.000Z",
+      "consistencyScore": 90,
+      "riskLevel": "LOW",
+      "eligibilityStatus": "Eligible",
+      "data": {
+        "fullName": "Rahul Kumar Soren",
+        "fatherName": "Ramesh Kumar Soren",
+        "dob": "1998-05-12",
+        "gender": "Male",
+        "category": "ST",
+        "subTribe": "Santhal",
+        "stCertNumber": "ST/JH/2023/88492",
+        "stCertAuthority": "Sub-Divisional Officer, Ranchi",
+        "stCertDate": "2023-04-15",
+        "highestQualification": "Master's degree",
+        "postgraduateDegree": "M.Sc. in Anthropology",
+        "postgraduatePercentage": 74.5,
+        "ugDegree": "B.Sc. Anthropology",
+        "ugPercentage": 71,
+        "enrolledInResearch": "yes",
+        "researchInstitution": "Delhi University",
+        "researchDepartment": "Department of Anthropology",
+        "researchTopic": "Ethnobotanical Traditions of Santhal Community in Chota Nagpur Plateau",
+        "enrolmentDate": "2024-08-01",
+        "annualIncome": 320000,
+        "incomeCertNumber": "INC/2024/77481",
+        "incomeCertIssueDate": "2024-05-10",
+        "bankName": "State Bank of India",
+        "accountNumber": "30987654321",
+        "ifscCode": "SBIN0001234",
+        "agreedTerms": true
+      }
+    },
+    {
+      "id": "app_2",
+      "applicationNumber": "NOS-2025-002",
+      "schemeId": "scheme_nos",
+      "applicantId": "app_prof_1",
+      "applicantName": "Sunita Kerketta",
+      "applicantEmail": "applicant1@demo.com",
+      "status": "Deficient",
+      "currentStage": "DOC_VERIF",
+      "createdAt": "2025-01-18T09:00:00.000Z",
+      "submittedAt": "2025-01-19T11:00:00.000Z",
+      "lastUpdatedAt": "2025-01-22T16:00:00.000Z",
+      "consistencyScore": 100,
+      "riskLevel": "LOW",
+      "eligibilityStatus": "Eligible",
+      "data": {
+        "fullName": "Sunita Kerketta",
+        "dob": "1997-08-19",
+        "age": 27,
+        "passportNumber": "Z1948201",
+        "passportExpiry": "2032-04-10",
+        "category": "ST",
+        "stCertNumber": "ST/JH/2023/70000",
+        "foreignOffer": "yes",
+        "foreignUniversity": "University of Edinburgh",
+        "foreignCountry": "United Kingdom",
+        "degreeAbroad": "Master's",
+        "qsRanking": 27,
+        "qualifyingDegree": "Bachelor's degree",
+        "marksPercentage": 76.2,
+        "annualIncome": 340000,
+        "agreedTerms": true
+      }
+    },
+    {
+      "id": "app_3",
+      "applicationNumber": "NFST-2025-003",
+      "schemeId": "scheme_nfst",
+      "applicantId": "app_prof_2",
+      "applicantName": "Bikash Oraon",
+      "applicantEmail": "applicant2@demo.com",
+      "status": "Under Verification",
+      "currentStage": "DOC_VERIF",
+      "createdAt": "2025-01-20T10:00:00.000Z",
+      "submittedAt": "2025-01-21T12:00:00.000Z",
+      "lastUpdatedAt": "2025-01-23T11:00:00.000Z",
+      "consistencyScore": 95,
+      "riskLevel": "LOW",
+      "eligibilityStatus": "Eligible subject to pending verification",
+      "data": {
+        "fullName": "Bikash Oraon",
+        "fatherName": "Mangal Oraon",
+        "dob": "1997-03-25",
+        "gender": "Male",
+        "category": "ST",
+        "subTribe": "Oraon",
+        "stCertNumber": "ST/OD/2023/70001",
+        "stCertAuthority": "Tahsildar, Mayurbhanj",
+        "stCertDate": "2023-03-12",
+        "highestQualification": "Master's degree",
+        "postgraduateDegree": "M.A. in Tribal Economics",
+        "postgraduatePercentage": 68.5,
+        "ugDegree": "B.A. Economics",
+        "ugPercentage": 65,
+        "enrolledInResearch": "yes",
+        "researchInstitution": "Utkal University",
+        "researchDepartment": "P.G. Department of Economics",
+        "researchTopic": "Microfinance Impact on Tribal Livelihoods in Northern Odisha",
+        "enrolmentDate": "2024-07-15",
+        "annualIncome": 290000,
+        "incomeCertNumber": "INC/OD/2024/3819",
+        "incomeCertIssueDate": "2024-04-10",
+        "bankName": "UCO Bank",
+        "accountNumber": "19876543210",
+        "ifscCode": "UCBA0000123",
+        "agreedTerms": true
+      }
+    },
+    {
+      "id": "app_4",
+      "applicationNumber": "NOS-2025-004",
+      "schemeId": "scheme_nos",
+      "applicantId": "app_prof_3",
+      "applicantName": "Pooja Maravi",
+      "applicantEmail": "applicant3@demo.com",
+      "status": "Under Verification",
+      "currentStage": "DOC_VERIF",
+      "createdAt": "2025-01-22T08:00:00.000Z",
+      "submittedAt": "2025-01-23T09:30:00.000Z",
+      "lastUpdatedAt": "2025-01-24T15:00:00.000Z",
+      "consistencyScore": 80,
+      "riskLevel": "HIGH",
+      "eligibilityStatus": "Eligible",
+      "data": {
+        "fullName": "Pooja Maravi",
+        "dob": "1998-05-12",
+        "age": 26,
+        "passportNumber": "Z8941029",
+        "passportExpiry": "2030-08-14",
+        "category": "ST",
+        "stCertNumber": "ST/MP/2023/70002",
+        "foreignOffer": "yes",
+        "foreignUniversity": "Australian National University",
+        "foreignCountry": "Australia",
+        "degreeAbroad": "Master's",
+        "qsRanking": 34,
+        "qualifyingDegree": "Bachelor's degree",
+        "marksPercentage": 71,
+        "annualIncome": 420000,
+        "agreedTerms": true
+      }
+    },
+    {
+      "id": "app_5",
+      "applicationNumber": "NFST-2025-005",
+      "schemeId": "scheme_nfst",
+      "applicantId": "app_prof_4",
+      "applicantName": "Kishan Munda",
+      "applicantEmail": "applicant4@demo.com",
+      "status": "Deficient",
+      "currentStage": "DOC_VERIF",
+      "createdAt": "2025-01-23T11:00:00.000Z",
+      "submittedAt": "2025-01-24T14:20:00.000Z",
+      "lastUpdatedAt": "2025-01-26T10:00:00.000Z",
+      "consistencyScore": 90,
+      "riskLevel": "LOW",
+      "eligibilityStatus": "Ineligible",
+      "data": {
+        "fullName": "Kishan Munda",
+        "fatherName": "Birsa Munda",
+        "dob": "1996-11-04",
+        "gender": "Male",
+        "category": "ST",
+        "subTribe": "Munda",
+        "stCertNumber": "ST/JH/2023/70003",
+        "stCertAuthority": "Sub-Divisional Officer, Khunti",
+        "stCertDate": "2023-01-18",
+        "highestQualification": "Master's degree",
+        "postgraduateDegree": "M.Sc. in Forestry",
+        "postgraduatePercentage": 64,
+        "ugDegree": "B.Sc. Botany",
+        "ugPercentage": 61.5,
+        "enrolledInResearch": "yes",
+        "researchInstitution": "Birsa Agricultural University",
+        "researchDepartment": "Faculty of Forestry",
+        "researchTopic": "Conservation of Non-Timber Forest Produce by Munda Tribals",
+        "enrolmentDate": "2024-09-01",
+        "annualIncome": 380000,
+        "incomeCertNumber": "INC/JH/2022/9012",
+        "incomeCertIssueDate": "2022-04-10",
+        "bankName": "Bank of India",
+        "accountNumber": "49876543210",
+        "ifscCode": "BKID0004987",
+        "agreedTerms": true
+      }
+    },
+    {
+      "id": "app_6",
+      "applicationNumber": "NFST-2025-006",
+      "schemeId": "scheme_nfst",
+      "applicantId": "app_prof_5",
+      "applicantName": "Anjali Bhil",
+      "applicantEmail": "applicant5@demo.com",
+      "status": "Submitted",
+      "currentStage": "SUBMITTED",
+      "createdAt": "2025-01-25T14:00:00.000Z",
+      "submittedAt": "2025-01-25T16:00:00.000Z",
+      "lastUpdatedAt": "2025-01-25T16:00:00.000Z",
+      "consistencyScore": 100,
+      "riskLevel": "LOW",
+      "eligibilityStatus": "Ineligible",
+      "data": {
+        "fullName": "Anjali Bhil",
+        "fatherName": "Devendra Bhil",
+        "dob": "1997-04-15",
+        "gender": "Female",
+        "category": "ST",
+        "subTribe": "Bhil",
+        "stCertNumber": "ST/RJ/2023/70004",
+        "stCertAuthority": "Sub-Divisional Magistrate, Udaipur",
+        "stCertDate": "2023-06-20",
+        "highestQualification": "Master's degree",
+        "postgraduateDegree": "M.A. in History",
+        "postgraduatePercentage": 79.5,
+        "ugDegree": "B.A. History",
+        "ugPercentage": 77,
+        "enrolledInResearch": "yes",
+        "researchInstitution": "Mohanlal Sukhadia University",
+        "researchDepartment": "Department of History",
+        "researchTopic": "Bhil Resistance Movements During Pre-Independence Era",
+        "enrolmentDate": "2024-08-10",
+        "annualIncome": 310000,
+        "incomeCertNumber": "INC/RJ/2024/5521",
+        "incomeCertIssueDate": "2024-05-15",
+        "bankName": "Bank of Baroda",
+        "accountNumber": "58765432109",
+        "ifscCode": "BARB0UDAIPU",
+        "agreedTerms": true
+      }
+    },
+    {
+      "id": "app_7",
+      "applicationNumber": "NOS-2025-007",
+      "schemeId": "scheme_nos",
+      "applicantId": "app_prof_6",
+      "applicantName": "Lalit Rathwa",
+      "applicantEmail": "applicant6@demo.com",
+      "status": "Eligible",
+      "currentStage": "ELIG_EVAL",
+      "createdAt": "2025-01-24T10:00:00.000Z",
+      "submittedAt": "2025-01-25T11:30:00.000Z",
+      "lastUpdatedAt": "2025-01-26T14:00:00.000Z",
+      "consistencyScore": 100,
+      "riskLevel": "LOW",
+      "eligibilityStatus": "Eligible",
+      "data": {
+        "fullName": "Lalit Rathwa",
+        "dob": "1998-02-10",
+        "age": 26,
+        "passportNumber": "Z3910485",
+        "passportExpiry": "2033-01-20",
+        "category": "ST",
+        "stCertNumber": "ST/GJ/2023/70005",
+        "foreignOffer": "yes",
+        "foreignUniversity": "University of British Columbia",
+        "foreignCountry": "Canada",
+        "degreeAbroad": "Master's",
+        "qsRanking": 38,
+        "qualifyingDegree": "Bachelor's degree",
+        "marksPercentage": 62,
+        "annualIncome": 450000,
+        "agreedTerms": true
+      }
+    },
+    {
+      "id": "app_8",
+      "applicationNumber": "NFST-2025-008",
+      "schemeId": "scheme_nfst",
+      "applicantId": "app_prof_7",
+      "applicantName": "Priya Nayak",
+      "applicantEmail": "applicant7@demo.com",
+      "status": "Under Verification",
+      "currentStage": "DOC_VERIF",
+      "createdAt": "2025-01-26T09:00:00.000Z",
+      "submittedAt": "2025-01-26T12:00:00.000Z",
+      "lastUpdatedAt": "2025-01-27T10:00:00.000Z",
+      "consistencyScore": 100,
+      "riskLevel": "LOW",
+      "eligibilityStatus": "Ineligible",
+      "data": {
+        "fullName": "Priya Nayak",
+        "fatherName": "Somaru Nayak",
+        "dob": "1999-01-12",
+        "gender": "Female",
+        "category": "ST",
+        "subTribe": "Gond",
+        "stCertNumber": "ST/CG/2023/70006",
+        "stCertAuthority": "Collector Office, Bastar",
+        "stCertDate": "2023-07-15",
+        "highestQualification": "Master's degree",
+        "postgraduateDegree": "M.Sc. in Rural Technology",
+        "postgraduatePercentage": 81,
+        "ugDegree": "B.Sc. Agriculture",
+        "ugPercentage": 78.5,
+        "enrolledInResearch": "yes",
+        "researchInstitution": "Bastar Vishwavidyalaya",
+        "researchDepartment": "Department of Forestry and Wildlife",
+        "researchTopic": "Indigenous Agro-Ecological Farming Practices in Bastar District",
+        "enrolmentDate": "2024-08-20",
+        "annualIncome": 260000,
+        "incomeCertNumber": "INC/CG/2024/1109",
+        "incomeCertIssueDate": "2024-04-18",
+        "bankName": "State Bank of India",
+        "accountNumber": "68765432109",
+        "ifscCode": "SBIN0006789",
+        "agreedTerms": true
+      }
+    },
+    {
+      "id": "app_9",
+      "applicationNumber": "NOS-2025-009",
+      "schemeId": "scheme_nos",
+      "applicantId": "app_prof_8",
+      "applicantName": "Vikram Jamatia",
+      "applicantEmail": "applicant9@demo.com",
+      "status": "Ineligible",
+      "currentStage": "ELIG_EVAL",
+      "createdAt": "2025-01-20T10:00:00.000Z",
+      "submittedAt": "2025-01-21T11:00:00.000Z",
+      "lastUpdatedAt": "2025-01-25T15:00:00.000Z",
+      "consistencyScore": 100,
+      "riskLevel": "LOW",
+      "eligibilityStatus": "Ineligible",
+      "data": {
+        "fullName": "Vikram Jamatia",
+        "dob": "1987-03-14",
+        "age": 37,
+        "passportNumber": "Z1029481",
+        "passportExpiry": "2029-06-12",
+        "category": "ST",
+        "stCertNumber": "ST/TR/2023/70008",
+        "foreignOffer": "yes",
+        "foreignUniversity": "University of Sydney",
+        "foreignCountry": "Australia",
+        "degreeAbroad": "Master's",
+        "qsRanking": 19,
+        "qualifyingDegree": "Bachelor's degree",
+        "marksPercentage": 54,
+        "annualIncome": 850000,
+        "agreedTerms": true
+      }
+    },
+    {
+      "id": "app_10",
+      "applicationNumber": "NFST-2025-010",
+      "schemeId": "scheme_nfst",
+      "applicantId": "app_prof_9",
+      "applicantName": "Kavita Deori",
+      "applicantEmail": "applicant10@demo.com",
+      "status": "Shortlisted",
+      "currentStage": "SCREENING",
+      "createdAt": "2025-01-14T09:00:00.000Z",
+      "submittedAt": "2025-01-15T10:00:00.000Z",
+      "lastUpdatedAt": "2025-01-26T17:00:00.000Z",
+      "consistencyScore": 100,
+      "riskLevel": "LOW",
+      "eligibilityStatus": "Ineligible",
+      "screeningScore": 88.5,
+      "officerDecision": "Shortlist",
+      "officerRemarks": "Candidate exhibits high academic distinction in Botany with research proposal directly aligned with traditional medicinal knowledge preservation.",
+      "data": {
+        "fullName": "Kavita Deori",
+        "fatherName": "Biren Deori",
+        "dob": "1996-09-08",
+        "gender": "Female",
+        "category": "ST",
+        "subTribe": "Deori",
+        "stCertNumber": "ST/AS/2023/70009",
+        "stCertAuthority": "Deputy Commissioner, Lakhimpur",
+        "stCertDate": "2023-02-14",
+        "highestQualification": "Master's degree",
+        "postgraduateDegree": "M.Sc. in Botany",
+        "postgraduatePercentage": 83.2,
+        "ugDegree": "B.Sc. Botany",
+        "ugPercentage": 80,
+        "enrolledInResearch": "yes",
+        "researchInstitution": "Gauhati University",
+        "researchDepartment": "Department of Botany",
+        "researchTopic": "Phytochemical and Molecular Characterization of Endangered Medicinal Plants in Eastern Himalayas",
+        "enrolmentDate": "2024-07-20",
+        "annualIncome": 315000,
+        "incomeCertNumber": "INC/AS/2024/7710",
+        "incomeCertIssueDate": "2024-03-25",
+        "bankName": "State Bank of India",
+        "accountNumber": "78765432109",
+        "ifscCode": "SBIN0004567",
+        "agreedTerms": true
+      }
+    },
+    {
+      "id": "app_11",
+      "applicationNumber": "NFST-2025-011",
+      "schemeId": "scheme_nfst",
+      "applicantId": "app_prof_0",
+      "applicantName": "Rahul Kumar Soren",
+      "applicantEmail": "applicant@demo.com",
+      "status": "Selected",
+      "currentStage": "POST_SELECTION",
+      "createdAt": "2024-11-10T09:00:00.000Z",
+      "submittedAt": "2024-11-15T10:00:00.000Z",
+      "lastUpdatedAt": "2025-01-28T14:00:00.000Z",
+      "consistencyScore": 100,
+      "riskLevel": "LOW",
+      "eligibilityStatus": "Ineligible",
+      "screeningScore": 91,
+      "officerDecision": "Select",
+      "officerRemarks": "Selected under regular Ph.D. fellowship quota. Sanction issued.",
+      "finalizedAt": "2025-01-10T12:00:00.000Z",
+      "postSelectionStatus": "Active Fellow",
+      "data": {
+        "fullName": "Rahul Kumar Soren",
+        "fatherName": "Ramesh Kumar Soren",
+        "dob": "1998-05-12",
+        "gender": "Male",
+        "category": "ST",
+        "subTribe": "Santhal",
+        "stCertNumber": "ST/JH/2023/88492",
+        "stCertAuthority": "Sub-Divisional Officer, Ranchi",
+        "stCertDate": "2023-04-15",
+        "highestQualification": "Master's degree",
+        "postgraduateDegree": "M.Sc. in Anthropology",
+        "postgraduatePercentage": 74.5,
+        "ugDegree": "B.Sc. Anthropology",
+        "ugPercentage": 71,
+        "enrolledInResearch": "yes",
+        "researchInstitution": "Delhi University",
+        "researchDepartment": "Department of Anthropology",
+        "researchTopic": "Ethnobotanical Traditions of Santhal Community in Chota Nagpur Plateau",
+        "enrolmentDate": "2024-08-01",
+        "annualIncome": 320000,
+        "incomeCertNumber": "INC/2024/77481",
+        "incomeCertIssueDate": "2024-05-10",
+        "bankName": "State Bank of India",
+        "accountNumber": "30987654321",
+        "ifscCode": "SBIN0001234",
+        "agreedTerms": true
+      }
+    },
+    {
+      "id": "app_1790776314295_80or9",
+      "applicationNumber": "NFST-2026-012",
+      "schemeId": "scheme_nfst",
+      "applicantId": "app_prof_0",
+      "applicantName": "Rahul Kumar Soren",
+      "applicantEmail": "applicant@demo.com",
+      "status": "Draft",
+      "currentStage": "SUBMITTED",
+      "createdAt": "2026-09-30T13:51:54.295Z",
+      "lastUpdatedAt": "2026-09-30T13:51:54.295Z",
+      "data": {
+        "fullName": "Rahul Kumar Soren",
+        "email": "applicant@demo.com",
+        "mobile": "9876543210",
+        "category": "ST",
+        "id": "app_prof_0",
+        "userId": "usr_applicant_0",
+        "dob": "1998-05-12",
+        "gender": "Male",
+        "state": "Jharkhand",
+        "district": "Ranchi",
+        "stCertNumber": "ST/JH/2023/88492",
+        "stCertAuthority": "Sub-Divisional Officer, Ranchi",
+        "stCertDate": "2023-04-15",
+        "qualification": "Master's degree",
+        "annualIncome": 320000,
+        "address": "Plot 42, Birsa Nagar, Kanke Road",
+        "pincode": "834008",
+        "bankName": "State Bank of India",
+        "accountNumber": "30987654321",
+        "ifscCode": "SBIN0001234",
+        "profileCompleted": true,
+        "updatedAt": "2025-01-12T10:00:00.000Z",
+        "subTribe": "Santhal",
+        "highestQualification": "Master's degree",
+        "enrolledInResearch": "yes",
+        "researchInstitution": "Delhi University",
+        "researchDepartment": "Department of Anthropology",
+        "researchTopic": "Ethnobotanical Traditions of Santhal Community in Chota Nagpur Plateau",
+        "postgraduateDegree": "M.Sc. in Anthropology",
+        "postgraduatePercentage": 74.5,
+        "ugDegree": "B.Sc. Anthropology",
+        "ugPercentage": 71,
+        "foreignOffer": "yes",
+        "foreignUniversity": "University of Edinburgh",
+        "foreignCountry": "United Kingdom",
+        "degreeAbroad": "Master's",
+        "qsRanking": 27,
+        "qualifyingDegree": "Bachelor's degree",
+        "marksPercentage": 74.5,
+        "agreedTerms": false
+      }
+    },
+    {
+      "id": "app_1790776442974_b5a0o",
+      "applicationNumber": "NFST-2026-013",
+      "schemeId": "scheme_nfst",
+      "applicantId": "app_prof_0",
+      "applicantName": "Rahul Kumar Soren",
+      "applicantEmail": "applicant@demo.com",
+      "status": "Draft",
+      "currentStage": "SUBMITTED",
+      "createdAt": "2026-09-30T13:54:02.974Z",
+      "lastUpdatedAt": "2026-09-30T13:54:02.974Z",
+      "data": {
+        "fullName": "Rahul Kumar Soren",
+        "email": "applicant@demo.com",
+        "mobile": "9876543210",
+        "category": "ST",
+        "id": "app_prof_0",
+        "userId": "usr_applicant_0",
+        "dob": "1998-05-12",
+        "gender": "Male",
+        "state": "Jharkhand",
+        "district": "Ranchi",
+        "stCertNumber": "ST/JH/2023/88492",
+        "stCertAuthority": "Sub-Divisional Officer, Ranchi",
+        "stCertDate": "2023-04-15",
+        "qualification": "Master's degree",
+        "annualIncome": 320000,
+        "address": "Plot 42, Birsa Nagar, Kanke Road",
+        "pincode": "834008",
+        "bankName": "State Bank of India",
+        "accountNumber": "30987654321",
+        "ifscCode": "SBIN0001234",
+        "profileCompleted": true,
+        "updatedAt": "2025-01-12T10:00:00.000Z",
+        "subTribe": "Santhal",
+        "highestQualification": "Master's degree",
+        "enrolledInResearch": "yes",
+        "researchInstitution": "Delhi University",
+        "researchDepartment": "Department of Anthropology",
+        "researchTopic": "Ethnobotanical Traditions of Santhal Community in Chota Nagpur Plateau",
+        "postgraduateDegree": "M.Sc. in Anthropology",
+        "postgraduatePercentage": 74.5,
+        "ugDegree": "B.Sc. Anthropology",
+        "ugPercentage": 71,
+        "foreignOffer": "yes",
+        "foreignUniversity": "University of Edinburgh",
+        "foreignCountry": "United Kingdom",
+        "degreeAbroad": "Master's",
+        "qsRanking": 27,
+        "qualifyingDegree": "Bachelor's degree",
+        "marksPercentage": 74.5,
+        "agreedTerms": false
+      }
+    },
+    {
+      "id": "app_1790776536027_ulzos",
+      "applicationNumber": "NFST-2026-014",
+      "schemeId": "scheme_nfst",
+      "applicantId": "app_prof_1790776522725",
+      "applicantName": "rahul",
+      "applicantEmail": "rahul@gmail.com",
+      "status": "Draft",
+      "currentStage": "SUBMITTED",
+      "createdAt": "2026-09-30T13:55:36.027Z",
+      "lastUpdatedAt": "2026-09-30T13:55:36.027Z",
+      "data": {
+        "fullName": "rahul",
+        "email": "rahul@gmail.com",
+        "mobile": "9214965231",
+        "category": "ST",
+        "id": "app_prof_1790776522725",
+        "userId": "usr_1790776522723_ghcf1",
+        "dob": "1998-05-12",
+        "gender": "Male",
+        "state": "Jharkhand",
+        "district": "Ranchi",
+        "stCertNumber": "ST/JH/2023/88492",
+        "stCertAuthority": "Sub-Divisional Officer, Ranchi",
+        "stCertDate": "2023-04-15",
+        "qualification": "Master's degree",
+        "annualIncome": 320000,
+        "address": "",
+        "pincode": "",
+        "bankName": "State Bank of India",
+        "accountNumber": "30987654321",
+        "ifscCode": "SBIN0001234",
+        "profileCompleted": false,
+        "updatedAt": "2026-09-30T13:55:22.725Z",
+        "subTribe": "Santhal",
+        "highestQualification": "Master's degree",
+        "enrolledInResearch": "yes",
+        "researchInstitution": "Delhi University",
+        "researchDepartment": "Department of Anthropology",
+        "researchTopic": "Ethnobotanical Traditions of Santhal Community in Chota Nagpur Plateau",
+        "postgraduateDegree": "M.Sc. in Anthropology",
+        "postgraduatePercentage": 74.5,
+        "ugDegree": "B.Sc. Anthropology",
+        "ugPercentage": 71,
+        "foreignOffer": "yes",
+        "foreignUniversity": "University of Edinburgh",
+        "foreignCountry": "United Kingdom",
+        "degreeAbroad": "Master's",
+        "qsRanking": 27,
+        "qualifyingDegree": "Bachelor's degree",
+        "marksPercentage": 74.5,
+        "agreedTerms": false
+      }
+    }
+  ],
+  "documents": [
+    {
+      "id": "doc_1_st",
+      "applicationId": "app_1",
+      "schemeDocId": "req_st_cert",
+      "docType": "st_certificate",
+      "title": "Scheduled Tribe (ST) Certificate",
+      "fileName": "sample_st_cert_matching.pdf",
+      "originalFileName": "st_certificate_rahul.pdf",
+      "filePath": "/app/applet/uploads/sample_st_cert_matching.pdf",
+      "fileSize": 184520,
+      "mimeType": "application/pdf",
+      "fileStatus": "Processed",
+      "verificationStatus": "Verified",
+      "verifiedBy": "Dr. Anita Meena",
+      "verifiedAt": "2025-01-18T14:30:00.000Z",
+      "version": 1,
+      "isSampleDoc": true,
+      "extractedData": {
+        "name": "Rahul Kumar Soren",
+        "fatherName": "Ramesh Kumar Soren",
+        "dob": "1998-05-12",
+        "category": "ST",
+        "certificateNumber": "ST/JH/2023/88492",
+        "issueDate": "2023-04-15",
+        "issuingAuthority": "Sub-Divisional Officer, Ranchi",
+        "provider": "demo",
+        "extractedAt": "2025-01-16T10:20:00.000Z"
+      },
+      "createdAt": "2025-01-16T10:15:00.000Z",
+      "updatedAt": "2025-01-18T14:30:00.000Z"
+    },
+    {
+      "id": "doc_1_income",
+      "applicationId": "app_1",
+      "schemeDocId": "req_income_cert",
+      "docType": "income_certificate",
+      "title": "Annual Family Income Certificate",
+      "fileName": "sample_income_cert_valid.pdf",
+      "originalFileName": "income_cert_2024.pdf",
+      "filePath": "/app/applet/uploads/sample_income_cert_valid.pdf",
+      "fileSize": 142100,
+      "mimeType": "application/pdf",
+      "fileStatus": "Processed",
+      "verificationStatus": "Verified",
+      "verifiedBy": "Dr. Anita Meena",
+      "verifiedAt": "2025-01-18T14:35:00.000Z",
+      "version": 1,
+      "isSampleDoc": true,
+      "extractedData": {
+        "name": "Rahul Kumar Soren",
+        "annualIncome": 320000,
+        "issueDate": "2024-05-10",
+        "expiryDate": "2025-05-09",
+        "issuingAuthority": "Tahsildar, Ranchi",
+        "provider": "demo",
+        "extractedAt": "2025-01-16T10:20:00.000Z"
+      },
+      "createdAt": "2025-01-16T10:15:00.000Z",
+      "updatedAt": "2025-01-18T14:35:00.000Z"
+    },
+    {
+      "id": "doc_1_adm",
+      "applicationId": "app_1",
+      "schemeDocId": "req_admission_letter",
+      "docType": "admission_letter",
+      "title": "Ph.D. Admission / Enrolment Letter",
+      "fileName": "sample_admission_letter.pdf",
+      "originalFileName": "admission_letter_du.pdf",
+      "filePath": "/app/applet/uploads/sample_admission_letter.pdf",
+      "fileSize": 220400,
+      "mimeType": "application/pdf",
+      "fileStatus": "Processed",
+      "verificationStatus": "Verified",
+      "verifiedBy": "Dr. Anita Meena",
+      "verifiedAt": "2025-01-18T14:40:00.000Z",
+      "version": 1,
+      "isSampleDoc": true,
+      "extractedData": {
+        "name": "Rahul Kumar Soren",
+        "institution": "Delhi University",
+        "course": "Ph.D. in Anthropology",
+        "issueDate": "2024-08-01",
+        "provider": "demo",
+        "extractedAt": "2025-01-16T10:20:00.000Z"
+      },
+      "createdAt": "2025-01-16T10:15:00.000Z",
+      "updatedAt": "2025-01-18T14:40:00.000Z"
+    },
+    {
+      "id": "doc_1_degree",
+      "applicationId": "app_1",
+      "schemeDocId": "req_degree_cert",
+      "docType": "degree_certificate",
+      "title": "Postgraduate Degree Certificate & Marksheet",
+      "fileName": "sample_marksheet_pg.pdf",
+      "originalFileName": "pg_marksheet_msc.pdf",
+      "filePath": "/app/applet/uploads/sample_marksheet_pg.pdf",
+      "fileSize": 195000,
+      "mimeType": "application/pdf",
+      "fileStatus": "Processed",
+      "verificationStatus": "Verified",
+      "verifiedBy": "Dr. Anita Meena",
+      "verifiedAt": "2025-01-18T14:45:00.000Z",
+      "version": 1,
+      "isSampleDoc": true,
+      "extractedData": {
+        "name": "Rahul Kumar Soren",
+        "marksPercentage": 74.5,
+        "course": "M.Sc. Anthropology",
+        "institution": "Ranchi University",
+        "provider": "demo",
+        "extractedAt": "2025-01-16T10:20:00.000Z"
+      },
+      "createdAt": "2025-01-16T10:15:00.000Z",
+      "updatedAt": "2025-01-18T14:45:00.000Z"
+    },
+    {
+      "id": "doc_1_research",
+      "applicationId": "app_1",
+      "schemeDocId": "req_research_proposal",
+      "docType": "research_proposal",
+      "title": "Research Proposal Synopsis",
+      "fileName": "sample_research_proposal.pdf",
+      "originalFileName": "research_proposal_santhal.pdf",
+      "filePath": "/app/applet/uploads/sample_research_proposal.pdf",
+      "fileSize": 310500,
+      "mimeType": "application/pdf",
+      "fileStatus": "Processed",
+      "verificationStatus": "Verified",
+      "verifiedBy": "Dr. Anita Meena",
+      "verifiedAt": "2025-01-18T14:50:00.000Z",
+      "version": 1,
+      "isSampleDoc": true,
+      "extractedData": {
+        "name": "Rahul Kumar Soren",
+        "pageCount": 6,
+        "provider": "demo",
+        "extractedAt": "2025-01-16T10:20:00.000Z"
+      },
+      "createdAt": "2025-01-16T10:15:00.000Z",
+      "updatedAt": "2025-01-18T14:50:00.000Z"
+    },
+    {
+      "id": "doc_2_st",
+      "applicationId": "app_2",
+      "schemeDocId": "req_nos_st",
+      "docType": "st_certificate",
+      "title": "Scheduled Tribe Certificate",
+      "fileName": "sample_st_cert_matching.pdf",
+      "originalFileName": "st_cert_sunita.pdf",
+      "filePath": "/app/applet/uploads/sample_st_cert_matching.pdf",
+      "fileSize": 180000,
+      "mimeType": "application/pdf",
+      "fileStatus": "Processed",
+      "verificationStatus": "Verified",
+      "verifiedBy": "Dr. Anita Meena",
+      "verifiedAt": "2025-01-20T11:00:00.000Z",
+      "version": 1,
+      "isSampleDoc": true,
+      "extractedData": {
+        "name": "Sunita Kerketta",
+        "category": "ST",
+        "certificateNumber": "ST/JH/2023/70000",
+        "provider": "demo",
+        "extractedAt": "2025-01-19T11:05:00.000Z"
+      },
+      "createdAt": "2025-01-19T11:00:00.000Z",
+      "updatedAt": "2025-01-20T11:00:00.000Z"
+    },
+    {
+      "id": "doc_3_st",
+      "applicationId": "app_3",
+      "schemeDocId": "req_st_cert",
+      "docType": "st_certificate",
+      "title": "Scheduled Tribe Certificate",
+      "fileName": "sample_st_cert_mismatch_name.pdf",
+      "originalFileName": "st_cert_mismatch_name.pdf",
+      "filePath": "/app/applet/uploads/sample_st_cert_mismatch_name.pdf",
+      "fileSize": 180000,
+      "mimeType": "application/pdf",
+      "fileStatus": "Processed",
+      "verificationStatus": "Needs Clarification",
+      "verificationRemarks": "Name on certificate appears as Bikash O. instead of Bikash Oraon. Please provide affidavit or clarification.",
+      "version": 1,
+      "isSampleDoc": true,
+      "extractedData": {
+        "name": "Bikash O.",
+        "category": "ST",
+        "certificateNumber": "ST/OD/2023/70001",
+        "provider": "demo",
+        "extractedAt": "2025-01-21T12:05:00.000Z"
+      },
+      "createdAt": "2025-01-21T12:00:00.000Z",
+      "updatedAt": "2025-01-23T11:00:00.000Z"
+    },
+    {
+      "id": "doc_4_st",
+      "applicationId": "app_4",
+      "schemeDocId": "req_nos_st",
+      "docType": "st_certificate",
+      "title": "Scheduled Tribe Certificate",
+      "fileName": "sample_st_cert_mismatch_dob.pdf",
+      "originalFileName": "st_cert_mismatch_dob.pdf",
+      "filePath": "/app/applet/uploads/sample_st_cert_mismatch_dob.pdf",
+      "fileSize": 180000,
+      "mimeType": "application/pdf",
+      "fileStatus": "Processed",
+      "verificationStatus": "Needs Clarification",
+      "verificationRemarks": "DOB on certificate extracted as 1998-05-21, whereas application declares 1998-05-12.",
+      "version": 1,
+      "isSampleDoc": true,
+      "extractedData": {
+        "name": "Pooja Maravi",
+        "dob": "1998-05-21",
+        "category": "ST",
+        "certificateNumber": "ST/MP/2023/70002",
+        "provider": "demo",
+        "extractedAt": "2025-01-23T09:35:00.000Z"
+      },
+      "createdAt": "2025-01-23T09:30:00.000Z",
+      "updatedAt": "2025-01-24T15:00:00.000Z"
+    },
+    {
+      "id": "doc_5_income",
+      "applicationId": "app_5",
+      "schemeDocId": "req_income_cert",
+      "docType": "income_certificate",
+      "title": "Income Certificate",
+      "fileName": "sample_income_cert_expired.pdf",
+      "originalFileName": "income_cert_expired.pdf",
+      "filePath": "/app/applet/uploads/sample_income_cert_expired.pdf",
+      "fileSize": 140000,
+      "mimeType": "application/pdf",
+      "fileStatus": "Processed",
+      "verificationStatus": "Rejected",
+      "verificationRemarks": "Income certificate expired on 2023-03-31. Current financial year certificate is mandatory.",
+      "version": 1,
+      "isSampleDoc": true,
+      "extractedData": {
+        "name": "Kishan Munda",
+        "annualIncome": 380000,
+        "issueDate": "2022-04-10",
+        "expiryDate": "2023-03-31",
+        "issuingAuthority": "Tahsildar, Khunti",
+        "provider": "demo",
+        "extractedAt": "2025-01-24T14:25:00.000Z"
+      },
+      "createdAt": "2025-01-24T14:20:00.000Z",
+      "updatedAt": "2025-01-26T10:00:00.000Z"
+    }
+  ],
+  "deficiencies": [
+    {
+      "id": "def_2_passport",
+      "applicationId": "app_2",
+      "category": "Missing Document",
+      "title": "Mandatory Passport Scanned Copy Missing",
+      "description": "Under National Overseas Scholarship (NOS) guidelines, a valid Indian Passport is mandatory for verification.",
+      "linkedField": "passport",
+      "dueDate": "2025-02-15",
+      "status": "Open",
+      "raisedBy": "Dr. Anita Meena",
+      "raisedAt": "2025-01-22T16:00:00.000Z",
+      "history": [
+        {
+          "id": "def_hist_1",
+          "action": "Deficiency Raised",
+          "actorName": "Dr. Anita Meena",
+          "actorRole": "Verification Officer",
+          "remarks": "Applicant submitted NOS application without uploading passport copy.",
+          "createdAt": "2025-01-22T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "def_5_income",
+      "applicationId": "app_5",
+      "documentId": "doc_5_income",
+      "category": "Expired Certificate",
+      "title": "Expired Income Certificate Resubmission Required",
+      "description": "The uploaded income certificate expired on 2023-03-31. Please upload an active certificate for FY 2024-25.",
+      "linkedField": "annualIncome",
+      "dueDate": "2025-02-10",
+      "status": "Open",
+      "raisedBy": "Dr. Anita Meena",
+      "raisedAt": "2025-01-26T10:00:00.000Z",
+      "history": [
+        {
+          "id": "def_hist_2",
+          "action": "Deficiency Raised",
+          "actorName": "Dr. Anita Meena",
+          "actorRole": "Verification Officer",
+          "remarks": "Rejected certificate due to validity lapse.",
+          "createdAt": "2025-01-26T10:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "eligibilityResults": {
+    "app_1": {
+      "applicationId": "app_1",
+      "overallStatus": "Eligible",
+      "criteriaResults": [
+        {
+          "criterionId": "rule_nfst_cat",
+          "criterion": "Candidate must belong to Scheduled Tribe (ST) community",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Field \"category\" value \"ST\" satisfies requirement (ST).",
+          "fieldUsed": "category",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_qual",
+          "criterion": "Candidate must possess Master's degree or M.Phil",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Qualification \"Master's degree\" recognized under eligible degrees (Master's degree, M.Phil).",
+          "fieldUsed": "highestQualification",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_marks",
+          "criterion": "Minimum 55% marks in Postgraduate degree",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Reported value 74.5 meets or exceeds minimum requirement of 55.",
+          "fieldUsed": "postgraduatePercentage",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_income",
+          "criterion": "Annual family income must not exceed INR 6,00,000",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Reported value ₹3,20,000 is within maximum ceiling of ₹6,00,000.",
+          "fieldUsed": "annualIncome",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_enrolled",
+          "criterion": "Must be actively enrolled in Ph.D. or M.Phil in India",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Field \"enrolledInResearch\" value \"yes\" satisfies requirement (yes).",
+          "fieldUsed": "enrolledInResearch",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_doc_st",
+          "criterion": "Scheduled Tribe certificate uploaded and verified",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Document \"Scheduled Tribe (ST) Certificate\" verified by officer on 2025-01-18T14:30:00.000Z.",
+          "supportingDocType": "st_certificate",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        }
+      ],
+      "explanation": "Rule-based evaluation completed: 6 of 6 criteria satisfied. The applicant satisfies all statutory conditions under the demo scheme configuration.",
+      "evaluatedAt": "2026-09-30T13:50:20.325Z"
+    },
+    "app_2": {
+      "applicationId": "app_2",
+      "overallStatus": "Eligible",
+      "criteriaResults": [
+        {
+          "criterionId": "rule_nos_cat",
+          "criterion": "Must belong to Scheduled Tribe (ST)",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Field \"category\" value \"ST\" satisfies requirement (ST).",
+          "fieldUsed": "category",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nos_age",
+          "criterion": "Age must not exceed 35 years as on cutoff date",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Reported value ₹27 is within maximum ceiling of ₹35.",
+          "fieldUsed": "age",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nos_marks",
+          "criterion": "Minimum 60% marks in qualifying degree",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Reported value 76.2 meets or exceeds minimum requirement of 60.",
+          "fieldUsed": "marksPercentage",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nos_income",
+          "criterion": "Family income must not exceed INR 6,00,000 per annum",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Reported value ₹3,40,000 is within maximum ceiling of ₹6,00,000.",
+          "fieldUsed": "annualIncome",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nos_offer",
+          "criterion": "Must have confirmed admission offer from overseas university",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Field \"foreignOffer\" value \"yes\" satisfies requirement (yes).",
+          "fieldUsed": "foreignOffer",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        }
+      ],
+      "explanation": "Rule-based evaluation completed: 5 of 5 criteria satisfied. The applicant satisfies all statutory conditions under the demo scheme configuration.",
+      "evaluatedAt": "2026-09-30T13:50:20.326Z"
+    },
+    "app_3": {
+      "applicationId": "app_3",
+      "overallStatus": "Eligible subject to pending verification",
+      "criteriaResults": [
+        {
+          "criterionId": "rule_nfst_cat",
+          "criterion": "Candidate must belong to Scheduled Tribe (ST) community",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Field \"category\" value \"ST\" satisfies requirement (ST).",
+          "fieldUsed": "category",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_qual",
+          "criterion": "Candidate must possess Master's degree or M.Phil",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Qualification \"Master's degree\" recognized under eligible degrees (Master's degree, M.Phil).",
+          "fieldUsed": "highestQualification",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_marks",
+          "criterion": "Minimum 55% marks in Postgraduate degree",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Reported value 68.5 meets or exceeds minimum requirement of 55.",
+          "fieldUsed": "postgraduatePercentage",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_income",
+          "criterion": "Annual family income must not exceed INR 6,00,000",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Reported value ₹2,90,000 is within maximum ceiling of ₹6,00,000.",
+          "fieldUsed": "annualIncome",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_enrolled",
+          "criterion": "Must be actively enrolled in Ph.D. or M.Phil in India",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Field \"enrolledInResearch\" value \"yes\" satisfies requirement (yes).",
+          "fieldUsed": "enrolledInResearch",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_doc_st",
+          "criterion": "Scheduled Tribe certificate uploaded and verified",
+          "type": "required",
+          "status": "PENDING",
+          "evidence": "Document \"Scheduled Tribe Certificate\" uploaded, official human verification is currently pending.",
+          "supportingDocType": "st_certificate",
+          "recommendedAction": "Await document scrutiny and officer verification."
+        }
+      ],
+      "explanation": "Rule-based evaluation completed: 5 of 6 criteria satisfied. Core criteria are satisfied, subject to official human verification of uploaded documents.",
+      "evaluatedAt": "2026-09-30T13:50:20.326Z"
+    },
+    "app_4": {
+      "applicationId": "app_4",
+      "overallStatus": "Eligible",
+      "criteriaResults": [
+        {
+          "criterionId": "rule_nos_cat",
+          "criterion": "Must belong to Scheduled Tribe (ST)",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Field \"category\" value \"ST\" satisfies requirement (ST).",
+          "fieldUsed": "category",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nos_age",
+          "criterion": "Age must not exceed 35 years as on cutoff date",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Reported value ₹26 is within maximum ceiling of ₹35.",
+          "fieldUsed": "age",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nos_marks",
+          "criterion": "Minimum 60% marks in qualifying degree",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Reported value 71 meets or exceeds minimum requirement of 60.",
+          "fieldUsed": "marksPercentage",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nos_income",
+          "criterion": "Family income must not exceed INR 6,00,000 per annum",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Reported value ₹4,20,000 is within maximum ceiling of ₹6,00,000.",
+          "fieldUsed": "annualIncome",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nos_offer",
+          "criterion": "Must have confirmed admission offer from overseas university",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Field \"foreignOffer\" value \"yes\" satisfies requirement (yes).",
+          "fieldUsed": "foreignOffer",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        }
+      ],
+      "explanation": "Rule-based evaluation completed: 5 of 5 criteria satisfied. The applicant satisfies all statutory conditions under the demo scheme configuration.",
+      "evaluatedAt": "2026-09-30T13:50:20.326Z"
+    },
+    "app_5": {
+      "applicationId": "app_5",
+      "overallStatus": "Ineligible",
+      "criteriaResults": [
+        {
+          "criterionId": "rule_nfst_cat",
+          "criterion": "Candidate must belong to Scheduled Tribe (ST) community",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Field \"category\" value \"ST\" satisfies requirement (ST).",
+          "fieldUsed": "category",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_qual",
+          "criterion": "Candidate must possess Master's degree or M.Phil",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Qualification \"Master's degree\" recognized under eligible degrees (Master's degree, M.Phil).",
+          "fieldUsed": "highestQualification",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_marks",
+          "criterion": "Minimum 55% marks in Postgraduate degree",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Reported value 64 meets or exceeds minimum requirement of 55.",
+          "fieldUsed": "postgraduatePercentage",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_income",
+          "criterion": "Annual family income must not exceed INR 6,00,000",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Reported value ₹3,80,000 is within maximum ceiling of ₹6,00,000.",
+          "fieldUsed": "annualIncome",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_enrolled",
+          "criterion": "Must be actively enrolled in Ph.D. or M.Phil in India",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Field \"enrolledInResearch\" value \"yes\" satisfies requirement (yes).",
+          "fieldUsed": "enrolledInResearch",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_doc_st",
+          "criterion": "Scheduled Tribe certificate uploaded and verified",
+          "type": "required",
+          "status": "FAIL",
+          "evidence": "Document \"st_certificate\" is not uploaded.",
+          "supportingDocType": "st_certificate",
+          "recommendedAction": "ST certificate requires officer verification."
+        }
+      ],
+      "explanation": "Rule-based evaluation completed: 5 of 6 criteria satisfied. One or more mandatory eligibility thresholds (such as marks, income ceiling or category) failed.",
+      "evaluatedAt": "2026-09-30T13:50:20.326Z"
+    },
+    "app_6": {
+      "applicationId": "app_6",
+      "overallStatus": "Ineligible",
+      "criteriaResults": [
+        {
+          "criterionId": "rule_nfst_cat",
+          "criterion": "Candidate must belong to Scheduled Tribe (ST) community",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Field \"category\" value \"ST\" satisfies requirement (ST).",
+          "fieldUsed": "category",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_qual",
+          "criterion": "Candidate must possess Master's degree or M.Phil",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Qualification \"Master's degree\" recognized under eligible degrees (Master's degree, M.Phil).",
+          "fieldUsed": "highestQualification",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_marks",
+          "criterion": "Minimum 55% marks in Postgraduate degree",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Reported value 79.5 meets or exceeds minimum requirement of 55.",
+          "fieldUsed": "postgraduatePercentage",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_income",
+          "criterion": "Annual family income must not exceed INR 6,00,000",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Reported value ₹3,10,000 is within maximum ceiling of ₹6,00,000.",
+          "fieldUsed": "annualIncome",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_enrolled",
+          "criterion": "Must be actively enrolled in Ph.D. or M.Phil in India",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Field \"enrolledInResearch\" value \"yes\" satisfies requirement (yes).",
+          "fieldUsed": "enrolledInResearch",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_doc_st",
+          "criterion": "Scheduled Tribe certificate uploaded and verified",
+          "type": "required",
+          "status": "FAIL",
+          "evidence": "Document \"st_certificate\" is not uploaded.",
+          "supportingDocType": "st_certificate",
+          "recommendedAction": "ST certificate requires officer verification."
+        }
+      ],
+      "explanation": "Rule-based evaluation completed: 5 of 6 criteria satisfied. One or more mandatory eligibility thresholds (such as marks, income ceiling or category) failed.",
+      "evaluatedAt": "2026-09-30T13:50:20.326Z"
+    },
+    "app_7": {
+      "applicationId": "app_7",
+      "overallStatus": "Eligible",
+      "criteriaResults": [
+        {
+          "criterionId": "rule_nos_cat",
+          "criterion": "Must belong to Scheduled Tribe (ST)",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Field \"category\" value \"ST\" satisfies requirement (ST).",
+          "fieldUsed": "category",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nos_age",
+          "criterion": "Age must not exceed 35 years as on cutoff date",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Reported value ₹26 is within maximum ceiling of ₹35.",
+          "fieldUsed": "age",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nos_marks",
+          "criterion": "Minimum 60% marks in qualifying degree",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Reported value 62 meets or exceeds minimum requirement of 60.",
+          "fieldUsed": "marksPercentage",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nos_income",
+          "criterion": "Family income must not exceed INR 6,00,000 per annum",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Reported value ₹4,50,000 is within maximum ceiling of ₹6,00,000.",
+          "fieldUsed": "annualIncome",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nos_offer",
+          "criterion": "Must have confirmed admission offer from overseas university",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Field \"foreignOffer\" value \"yes\" satisfies requirement (yes).",
+          "fieldUsed": "foreignOffer",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        }
+      ],
+      "explanation": "Rule-based evaluation completed: 5 of 5 criteria satisfied. The applicant satisfies all statutory conditions under the demo scheme configuration.",
+      "evaluatedAt": "2026-09-30T13:50:20.326Z"
+    },
+    "app_8": {
+      "applicationId": "app_8",
+      "overallStatus": "Ineligible",
+      "criteriaResults": [
+        {
+          "criterionId": "rule_nfst_cat",
+          "criterion": "Candidate must belong to Scheduled Tribe (ST) community",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Field \"category\" value \"ST\" satisfies requirement (ST).",
+          "fieldUsed": "category",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_qual",
+          "criterion": "Candidate must possess Master's degree or M.Phil",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Qualification \"Master's degree\" recognized under eligible degrees (Master's degree, M.Phil).",
+          "fieldUsed": "highestQualification",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_marks",
+          "criterion": "Minimum 55% marks in Postgraduate degree",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Reported value 81 meets or exceeds minimum requirement of 55.",
+          "fieldUsed": "postgraduatePercentage",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_income",
+          "criterion": "Annual family income must not exceed INR 6,00,000",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Reported value ₹2,60,000 is within maximum ceiling of ₹6,00,000.",
+          "fieldUsed": "annualIncome",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_enrolled",
+          "criterion": "Must be actively enrolled in Ph.D. or M.Phil in India",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Field \"enrolledInResearch\" value \"yes\" satisfies requirement (yes).",
+          "fieldUsed": "enrolledInResearch",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_doc_st",
+          "criterion": "Scheduled Tribe certificate uploaded and verified",
+          "type": "required",
+          "status": "FAIL",
+          "evidence": "Document \"st_certificate\" is not uploaded.",
+          "supportingDocType": "st_certificate",
+          "recommendedAction": "ST certificate requires officer verification."
+        }
+      ],
+      "explanation": "Rule-based evaluation completed: 5 of 6 criteria satisfied. One or more mandatory eligibility thresholds (such as marks, income ceiling or category) failed.",
+      "evaluatedAt": "2026-09-30T13:50:20.326Z"
+    },
+    "app_9": {
+      "applicationId": "app_9",
+      "overallStatus": "Ineligible",
+      "criteriaResults": [
+        {
+          "criterionId": "rule_nos_cat",
+          "criterion": "Must belong to Scheduled Tribe (ST)",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Field \"category\" value \"ST\" satisfies requirement (ST).",
+          "fieldUsed": "category",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nos_age",
+          "criterion": "Age must not exceed 35 years as on cutoff date",
+          "type": "required",
+          "status": "FAIL",
+          "evidence": "Reported value ₹37 exceeds maximum allowed limit of ₹35.",
+          "fieldUsed": "age",
+          "conflictDetected": "Income ceiling exceeded.",
+          "recommendedAction": "Age exceeds the permissible cutoff limit of 35 years."
+        },
+        {
+          "criterionId": "rule_nos_marks",
+          "criterion": "Minimum 60% marks in qualifying degree",
+          "type": "required",
+          "status": "FAIL",
+          "evidence": "Reported value 54 is below required threshold of 60.",
+          "fieldUsed": "marksPercentage",
+          "conflictDetected": "Threshold not met: 54 < 60.",
+          "recommendedAction": "Minimum qualifying mark required for NOS is 60.0%."
+        },
+        {
+          "criterionId": "rule_nos_income",
+          "criterion": "Family income must not exceed INR 6,00,000 per annum",
+          "type": "required",
+          "status": "FAIL",
+          "evidence": "Reported value ₹8,50,000 exceeds maximum allowed limit of ₹6,00,000.",
+          "fieldUsed": "annualIncome",
+          "conflictDetected": "Income ceiling exceeded.",
+          "recommendedAction": "Income exceeds ceiling of ₹6,00,000."
+        },
+        {
+          "criterionId": "rule_nos_offer",
+          "criterion": "Must have confirmed admission offer from overseas university",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Field \"foreignOffer\" value \"yes\" satisfies requirement (yes).",
+          "fieldUsed": "foreignOffer",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        }
+      ],
+      "explanation": "Rule-based evaluation completed: 2 of 5 criteria satisfied. One or more mandatory eligibility thresholds (such as marks, income ceiling or category) failed.",
+      "evaluatedAt": "2026-09-30T13:50:20.326Z"
+    },
+    "app_10": {
+      "applicationId": "app_10",
+      "overallStatus": "Ineligible",
+      "criteriaResults": [
+        {
+          "criterionId": "rule_nfst_cat",
+          "criterion": "Candidate must belong to Scheduled Tribe (ST) community",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Field \"category\" value \"ST\" satisfies requirement (ST).",
+          "fieldUsed": "category",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_qual",
+          "criterion": "Candidate must possess Master's degree or M.Phil",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Qualification \"Master's degree\" recognized under eligible degrees (Master's degree, M.Phil).",
+          "fieldUsed": "highestQualification",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_marks",
+          "criterion": "Minimum 55% marks in Postgraduate degree",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Reported value 83.2 meets or exceeds minimum requirement of 55.",
+          "fieldUsed": "postgraduatePercentage",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_income",
+          "criterion": "Annual family income must not exceed INR 6,00,000",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Reported value ₹3,15,000 is within maximum ceiling of ₹6,00,000.",
+          "fieldUsed": "annualIncome",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_enrolled",
+          "criterion": "Must be actively enrolled in Ph.D. or M.Phil in India",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Field \"enrolledInResearch\" value \"yes\" satisfies requirement (yes).",
+          "fieldUsed": "enrolledInResearch",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_doc_st",
+          "criterion": "Scheduled Tribe certificate uploaded and verified",
+          "type": "required",
+          "status": "FAIL",
+          "evidence": "Document \"st_certificate\" is not uploaded.",
+          "supportingDocType": "st_certificate",
+          "recommendedAction": "ST certificate requires officer verification."
+        }
+      ],
+      "explanation": "Rule-based evaluation completed: 5 of 6 criteria satisfied. One or more mandatory eligibility thresholds (such as marks, income ceiling or category) failed.",
+      "evaluatedAt": "2026-09-30T13:50:20.326Z"
+    },
+    "app_11": {
+      "applicationId": "app_11",
+      "overallStatus": "Ineligible",
+      "criteriaResults": [
+        {
+          "criterionId": "rule_nfst_cat",
+          "criterion": "Candidate must belong to Scheduled Tribe (ST) community",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Field \"category\" value \"ST\" satisfies requirement (ST).",
+          "fieldUsed": "category",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_qual",
+          "criterion": "Candidate must possess Master's degree or M.Phil",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Qualification \"Master's degree\" recognized under eligible degrees (Master's degree, M.Phil).",
+          "fieldUsed": "highestQualification",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_marks",
+          "criterion": "Minimum 55% marks in Postgraduate degree",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Reported value 74.5 meets or exceeds minimum requirement of 55.",
+          "fieldUsed": "postgraduatePercentage",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_income",
+          "criterion": "Annual family income must not exceed INR 6,00,000",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Reported value ₹3,20,000 is within maximum ceiling of ₹6,00,000.",
+          "fieldUsed": "annualIncome",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_enrolled",
+          "criterion": "Must be actively enrolled in Ph.D. or M.Phil in India",
+          "type": "required",
+          "status": "PASS",
+          "evidence": "Field \"enrolledInResearch\" value \"yes\" satisfies requirement (yes).",
+          "fieldUsed": "enrolledInResearch",
+          "recommendedAction": "Criteria fulfilled. No action needed."
+        },
+        {
+          "criterionId": "rule_nfst_doc_st",
+          "criterion": "Scheduled Tribe certificate uploaded and verified",
+          "type": "required",
+          "status": "FAIL",
+          "evidence": "Document \"st_certificate\" is not uploaded.",
+          "supportingDocType": "st_certificate",
+          "recommendedAction": "ST certificate requires officer verification."
+        }
+      ],
+      "explanation": "Rule-based evaluation completed: 5 of 6 criteria satisfied. One or more mandatory eligibility thresholds (such as marks, income ceiling or category) failed.",
+      "evaluatedAt": "2026-09-30T13:50:20.326Z"
+    }
+  },
+  "consistencyResults": {
+    "app_1": {
+      "score": 90,
+      "riskLevel": "LOW",
+      "findings": [
+        {
+          "id": "finding_name_ok",
+          "category": "Identity",
+          "field": "fullName",
+          "status": "PASS",
+          "title": "Name Consistency Verified",
+          "message": "Applicant name matches identically across all extracted certificates.",
+          "details": "Confirmed matching \"Rahul Kumar Soren\" across 5 document(s).",
+          "weightDeduction": 0,
+          "isAiAssisted": true
+        },
+        {
+          "id": "finding_dob_ok",
+          "category": "Identity",
+          "field": "dob",
+          "status": "PASS",
+          "title": "Date of Birth Consistent",
+          "message": "Date of birth matches verified certificates.",
+          "details": "Confirmed matching DOB \"1998-05-12\" across identity documents.",
+          "weightDeduction": 0,
+          "isAiAssisted": true
+        },
+        {
+          "id": "finding_cat_ok",
+          "category": "Eligibility Category",
+          "field": "category",
+          "status": "PASS",
+          "title": "ST Category Confirmed",
+          "message": "ST certificate attached and category matches Scheduled Tribe requirement.",
+          "details": "Certificate number: ST/JH/2023/88492.",
+          "weightDeduction": 0,
+          "isAiAssisted": true
+        },
+        {
+          "id": "finding_inst_ok",
+          "category": "Academic/Institution",
+          "field": "institution",
+          "status": "PASS",
+          "title": "Institution Name Consistent",
+          "message": "Institution details on document match application entry.",
+          "details": "Institution verified: Delhi University.",
+          "weightDeduction": 0,
+          "isAiAssisted": true
+        },
+        {
+          "id": "finding_expired_doc_1_income",
+          "category": "Document Validity",
+          "field": "expiryDate",
+          "status": "WARNING",
+          "title": "Expired Document Detected: Annual Family Income Certificate",
+          "message": "Potential inconsistency detected. Manual verification required.",
+          "details": "Annual Family Income Certificate expired on 2025-05-09. Current valid certificate must be provided.",
+          "weightDeduction": 10,
+          "isAiAssisted": true
+        }
+      ],
+      "scoreBreakdown": {
+        "nameMatching": 20,
+        "dobMatching": 20,
+        "categoryCert": 15,
+        "institution": 15,
+        "course": 10,
+        "validityExpiry": 0,
+        "completeness": 10
+      },
+      "plainExplanation": "Automated document consistency evaluation calculated an overall score of 90/100 with an advisory risk classification of LOW. Advisory warnings were noted regarding formatting or expiry dates for officer scrutiny."
+    },
+    "app_2": {
+      "score": 100,
+      "riskLevel": "LOW",
+      "findings": [
+        {
+          "id": "finding_name_ok",
+          "category": "Identity",
+          "field": "fullName",
+          "status": "PASS",
+          "title": "Name Consistency Verified",
+          "message": "Applicant name matches identically across all extracted certificates.",
+          "details": "Confirmed matching \"Sunita Kerketta\" across 1 document(s).",
+          "weightDeduction": 0,
+          "isAiAssisted": true
+        },
+        {
+          "id": "finding_dob_info",
+          "category": "Identity",
+          "field": "dob",
+          "status": "INFO",
+          "title": "DOB Cross-Check",
+          "message": "DOB verified from profile data.",
+          "details": "DOB: 1997-08-19.",
+          "weightDeduction": 0,
+          "isAiAssisted": true
+        },
+        {
+          "id": "finding_cat_ok",
+          "category": "Eligibility Category",
+          "field": "category",
+          "status": "PASS",
+          "title": "ST Category Confirmed",
+          "message": "ST certificate attached and category matches Scheduled Tribe requirement.",
+          "details": "Certificate number: ST/JH/2023/70000.",
+          "weightDeduction": 0,
+          "isAiAssisted": true
+        }
+      ],
+      "scoreBreakdown": {
+        "nameMatching": 20,
+        "dobMatching": 20,
+        "categoryCert": 15,
+        "institution": 15,
+        "course": 10,
+        "validityExpiry": 10,
+        "completeness": 10
+      },
+      "plainExplanation": "Automated document consistency evaluation calculated an overall score of 100/100 with an advisory risk classification of LOW. All cross-document identity, academic and tribal criteria show high alignment."
+    },
+    "app_3": {
+      "score": 95,
+      "riskLevel": "LOW",
+      "findings": [
+        {
+          "id": "finding_name_initials_doc_3_st",
+          "category": "Identity",
+          "field": "fullName",
+          "status": "WARNING",
+          "title": "Name Formatting Variation in Scheduled Tribe Certificate",
+          "message": "Potential formatting variation detected between application and certificate.",
+          "details": "Application has \"Bikash Oraon\", whereas Scheduled Tribe Certificate shows \"Bikash O.\". Initials/abbreviation variation requires standard manual check.",
+          "weightDeduction": 5,
+          "isAiAssisted": true
+        },
+        {
+          "id": "finding_dob_info",
+          "category": "Identity",
+          "field": "dob",
+          "status": "INFO",
+          "title": "DOB Cross-Check",
+          "message": "DOB verified from profile data.",
+          "details": "DOB: 1997-03-25.",
+          "weightDeduction": 0,
+          "isAiAssisted": true
+        },
+        {
+          "id": "finding_cat_ok",
+          "category": "Eligibility Category",
+          "field": "category",
+          "status": "PASS",
+          "title": "ST Category Confirmed",
+          "message": "ST certificate attached and category matches Scheduled Tribe requirement.",
+          "details": "Certificate number: ST/OD/2023/70001.",
+          "weightDeduction": 0,
+          "isAiAssisted": true
+        }
+      ],
+      "scoreBreakdown": {
+        "nameMatching": 15,
+        "dobMatching": 20,
+        "categoryCert": 15,
+        "institution": 15,
+        "course": 10,
+        "validityExpiry": 10,
+        "completeness": 10
+      },
+      "plainExplanation": "Automated document consistency evaluation calculated an overall score of 95/100 with an advisory risk classification of LOW. Advisory warnings were noted regarding formatting or expiry dates for officer scrutiny."
+    },
+    "app_4": {
+      "score": 80,
+      "riskLevel": "HIGH",
+      "findings": [
+        {
+          "id": "finding_name_ok",
+          "category": "Identity",
+          "field": "fullName",
+          "status": "PASS",
+          "title": "Name Consistency Verified",
+          "message": "Applicant name matches identically across all extracted certificates.",
+          "details": "Confirmed matching \"Pooja Maravi\" across 1 document(s).",
+          "weightDeduction": 0,
+          "isAiAssisted": true
+        },
+        {
+          "id": "finding_dob_mismatch_doc_4_st",
+          "category": "Identity",
+          "field": "dob",
+          "status": "FAIL",
+          "title": "Date of Birth Inconsistency in Scheduled Tribe Certificate",
+          "message": "Potential inconsistency detected. Manual verification required.",
+          "details": "Application DOB \"1998-05-12\" does not match certificate extracted DOB \"1998-05-21\" in Scheduled Tribe Certificate.",
+          "weightDeduction": 20,
+          "isAiAssisted": true
+        },
+        {
+          "id": "finding_cat_ok",
+          "category": "Eligibility Category",
+          "field": "category",
+          "status": "PASS",
+          "title": "ST Category Confirmed",
+          "message": "ST certificate attached and category matches Scheduled Tribe requirement.",
+          "details": "Certificate number: ST/MP/2023/70002.",
+          "weightDeduction": 0,
+          "isAiAssisted": true
+        }
+      ],
+      "scoreBreakdown": {
+        "nameMatching": 20,
+        "dobMatching": 0,
+        "categoryCert": 15,
+        "institution": 15,
+        "course": 10,
+        "validityExpiry": 10,
+        "completeness": 10
+      },
+      "plainExplanation": "Automated document consistency evaluation calculated an overall score of 80/100 with an advisory risk classification of HIGH. High-priority discrepancies were flagged that require official verification before proceeding."
+    },
+    "app_5": {
+      "score": 90,
+      "riskLevel": "LOW",
+      "findings": [
+        {
+          "id": "finding_name_ok",
+          "category": "Identity",
+          "field": "fullName",
+          "status": "PASS",
+          "title": "Name Consistency Verified",
+          "message": "Applicant name matches identically across all extracted certificates.",
+          "details": "Confirmed matching \"Kishan Munda\" across 1 document(s).",
+          "weightDeduction": 0,
+          "isAiAssisted": true
+        },
+        {
+          "id": "finding_dob_info",
+          "category": "Identity",
+          "field": "dob",
+          "status": "INFO",
+          "title": "DOB Cross-Check",
+          "message": "DOB verified from profile data.",
+          "details": "DOB: 1996-11-04.",
+          "weightDeduction": 0,
+          "isAiAssisted": true
+        },
+        {
+          "id": "finding_expired_doc_5_income",
+          "category": "Document Validity",
+          "field": "expiryDate",
+          "status": "WARNING",
+          "title": "Expired Document Detected: Income Certificate",
+          "message": "Potential inconsistency detected. Manual verification required.",
+          "details": "Income Certificate expired on 2023-03-31. Current valid certificate must be provided.",
+          "weightDeduction": 10,
+          "isAiAssisted": true
+        }
+      ],
+      "scoreBreakdown": {
+        "nameMatching": 20,
+        "dobMatching": 20,
+        "categoryCert": 15,
+        "institution": 15,
+        "course": 10,
+        "validityExpiry": 0,
+        "completeness": 10
+      },
+      "plainExplanation": "Automated document consistency evaluation calculated an overall score of 90/100 with an advisory risk classification of LOW. Advisory warnings were noted regarding formatting or expiry dates for officer scrutiny."
+    },
+    "app_6": {
+      "score": 100,
+      "riskLevel": "LOW",
+      "findings": [
+        {
+          "id": "finding_name_pending",
+          "category": "Identity",
+          "field": "fullName",
+          "status": "INFO",
+          "title": "Name Consistency: Verification Pending",
+          "message": "No document extractions available yet to cross-verify applicant name.",
+          "details": "Application name is \"Anjali Bhil\". Awaiting document OCR extractions.",
+          "weightDeduction": 0,
+          "isAiAssisted": true
+        },
+        {
+          "id": "finding_dob_info",
+          "category": "Identity",
+          "field": "dob",
+          "status": "INFO",
+          "title": "DOB Cross-Check",
+          "message": "DOB verified from profile data.",
+          "details": "DOB: 1997-04-15.",
+          "weightDeduction": 0,
+          "isAiAssisted": true
+        }
+      ],
+      "scoreBreakdown": {
+        "nameMatching": 20,
+        "dobMatching": 20,
+        "categoryCert": 15,
+        "institution": 15,
+        "course": 10,
+        "validityExpiry": 10,
+        "completeness": 10
+      },
+      "plainExplanation": "Automated document consistency evaluation calculated an overall score of 100/100 with an advisory risk classification of LOW. All cross-document identity, academic and tribal criteria show high alignment."
+    },
+    "app_7": {
+      "score": 100,
+      "riskLevel": "LOW",
+      "findings": [
+        {
+          "id": "finding_name_pending",
+          "category": "Identity",
+          "field": "fullName",
+          "status": "INFO",
+          "title": "Name Consistency: Verification Pending",
+          "message": "No document extractions available yet to cross-verify applicant name.",
+          "details": "Application name is \"Lalit Rathwa\". Awaiting document OCR extractions.",
+          "weightDeduction": 0,
+          "isAiAssisted": true
+        },
+        {
+          "id": "finding_dob_info",
+          "category": "Identity",
+          "field": "dob",
+          "status": "INFO",
+          "title": "DOB Cross-Check",
+          "message": "DOB verified from profile data.",
+          "details": "DOB: 1998-02-10.",
+          "weightDeduction": 0,
+          "isAiAssisted": true
+        }
+      ],
+      "scoreBreakdown": {
+        "nameMatching": 20,
+        "dobMatching": 20,
+        "categoryCert": 15,
+        "institution": 15,
+        "course": 10,
+        "validityExpiry": 10,
+        "completeness": 10
+      },
+      "plainExplanation": "Automated document consistency evaluation calculated an overall score of 100/100 with an advisory risk classification of LOW. All cross-document identity, academic and tribal criteria show high alignment."
+    },
+    "app_8": {
+      "score": 100,
+      "riskLevel": "LOW",
+      "findings": [
+        {
+          "id": "finding_name_pending",
+          "category": "Identity",
+          "field": "fullName",
+          "status": "INFO",
+          "title": "Name Consistency: Verification Pending",
+          "message": "No document extractions available yet to cross-verify applicant name.",
+          "details": "Application name is \"Priya Nayak\". Awaiting document OCR extractions.",
+          "weightDeduction": 0,
+          "isAiAssisted": true
+        },
+        {
+          "id": "finding_dob_info",
+          "category": "Identity",
+          "field": "dob",
+          "status": "INFO",
+          "title": "DOB Cross-Check",
+          "message": "DOB verified from profile data.",
+          "details": "DOB: 1999-01-12.",
+          "weightDeduction": 0,
+          "isAiAssisted": true
+        }
+      ],
+      "scoreBreakdown": {
+        "nameMatching": 20,
+        "dobMatching": 20,
+        "categoryCert": 15,
+        "institution": 15,
+        "course": 10,
+        "validityExpiry": 10,
+        "completeness": 10
+      },
+      "plainExplanation": "Automated document consistency evaluation calculated an overall score of 100/100 with an advisory risk classification of LOW. All cross-document identity, academic and tribal criteria show high alignment."
+    },
+    "app_9": {
+      "score": 100,
+      "riskLevel": "LOW",
+      "findings": [
+        {
+          "id": "finding_name_pending",
+          "category": "Identity",
+          "field": "fullName",
+          "status": "INFO",
+          "title": "Name Consistency: Verification Pending",
+          "message": "No document extractions available yet to cross-verify applicant name.",
+          "details": "Application name is \"Vikram Jamatia\". Awaiting document OCR extractions.",
+          "weightDeduction": 0,
+          "isAiAssisted": true
+        },
+        {
+          "id": "finding_dob_info",
+          "category": "Identity",
+          "field": "dob",
+          "status": "INFO",
+          "title": "DOB Cross-Check",
+          "message": "DOB verified from profile data.",
+          "details": "DOB: 1987-03-14.",
+          "weightDeduction": 0,
+          "isAiAssisted": true
+        }
+      ],
+      "scoreBreakdown": {
+        "nameMatching": 20,
+        "dobMatching": 20,
+        "categoryCert": 15,
+        "institution": 15,
+        "course": 10,
+        "validityExpiry": 10,
+        "completeness": 10
+      },
+      "plainExplanation": "Automated document consistency evaluation calculated an overall score of 100/100 with an advisory risk classification of LOW. All cross-document identity, academic and tribal criteria show high alignment."
+    },
+    "app_10": {
+      "score": 100,
+      "riskLevel": "LOW",
+      "findings": [
+        {
+          "id": "finding_name_pending",
+          "category": "Identity",
+          "field": "fullName",
+          "status": "INFO",
+          "title": "Name Consistency: Verification Pending",
+          "message": "No document extractions available yet to cross-verify applicant name.",
+          "details": "Application name is \"Kavita Deori\". Awaiting document OCR extractions.",
+          "weightDeduction": 0,
+          "isAiAssisted": true
+        },
+        {
+          "id": "finding_dob_info",
+          "category": "Identity",
+          "field": "dob",
+          "status": "INFO",
+          "title": "DOB Cross-Check",
+          "message": "DOB verified from profile data.",
+          "details": "DOB: 1996-09-08.",
+          "weightDeduction": 0,
+          "isAiAssisted": true
+        }
+      ],
+      "scoreBreakdown": {
+        "nameMatching": 20,
+        "dobMatching": 20,
+        "categoryCert": 15,
+        "institution": 15,
+        "course": 10,
+        "validityExpiry": 10,
+        "completeness": 10
+      },
+      "plainExplanation": "Automated document consistency evaluation calculated an overall score of 100/100 with an advisory risk classification of LOW. All cross-document identity, academic and tribal criteria show high alignment."
+    },
+    "app_11": {
+      "score": 100,
+      "riskLevel": "LOW",
+      "findings": [
+        {
+          "id": "finding_name_pending",
+          "category": "Identity",
+          "field": "fullName",
+          "status": "INFO",
+          "title": "Name Consistency: Verification Pending",
+          "message": "No document extractions available yet to cross-verify applicant name.",
+          "details": "Application name is \"Rahul Kumar Soren\". Awaiting document OCR extractions.",
+          "weightDeduction": 0,
+          "isAiAssisted": true
+        },
+        {
+          "id": "finding_dob_info",
+          "category": "Identity",
+          "field": "dob",
+          "status": "INFO",
+          "title": "DOB Cross-Check",
+          "message": "DOB verified from profile data.",
+          "details": "DOB: 1998-05-12.",
+          "weightDeduction": 0,
+          "isAiAssisted": true
+        }
+      ],
+      "scoreBreakdown": {
+        "nameMatching": 20,
+        "dobMatching": 20,
+        "categoryCert": 15,
+        "institution": 15,
+        "course": 10,
+        "validityExpiry": 10,
+        "completeness": 10
+      },
+      "plainExplanation": "Automated document consistency evaluation calculated an overall score of 100/100 with an advisory risk classification of LOW. All cross-document identity, academic and tribal criteria show high alignment."
+    }
+  },
+  "selectionRecords": [
+    {
+      "id": "sel_app_10",
+      "applicationId": "app_10",
+      "schemeId": "scheme_nfst",
+      "applicantId": "app_prof_9",
+      "applicantName": "Kavita Deori",
+      "screeningScore": 88.5,
+      "scoreBreakdown": {
+        "academicMerit": 35.5,
+        "researchRelevance": 26,
+        "docVerification": 18,
+        "integrityBonus": 9
+      },
+      "aiRecommendation": "Recommend shortlist",
+      "aiRecommendationReason": "Exceptional academic ranking (83.2% PG Botany), complete document scrutiny, and clear research alignment with indigenous pharmacology.",
+      "officerDecision": "Shortlist",
+      "officerRemarks": "Shortlisted by Selection Committee for Round 1 fellowship allocation.",
+      "createdAt": "2025-01-26T17:00:00.000Z"
+    },
+    {
+      "id": "sel_app_11",
+      "applicationId": "app_11",
+      "schemeId": "scheme_nfst",
+      "applicantId": "app_prof_0",
+      "applicantName": "Rahul Kumar Soren",
+      "screeningScore": 91,
+      "scoreBreakdown": {
+        "academicMerit": 36,
+        "researchRelevance": 28,
+        "docVerification": 18,
+        "integrityBonus": 9
+      },
+      "aiRecommendation": "Recommend shortlist",
+      "aiRecommendationReason": "High merit score and research relevance to Santhal ethno-linguistics.",
+      "officerDecision": "Select",
+      "officerRemarks": "Selected under regular NFST fellowship allocation 2024-25.",
+      "finalizedBy": "Shri Rajesh Gond",
+      "finalizedAt": "2025-01-10T12:00:00.000Z",
+      "createdAt": "2025-01-08T15:00:00.000Z"
+    }
+  ],
+  "postSelectionRecords": [
+    {
+      "id": "post_sel_app_11",
+      "applicationId": "app_11",
+      "schemeId": "scheme_nfst",
+      "applicantId": "app_prof_0",
+      "applicantName": "Rahul Kumar Soren",
+      "awardAmount": "₹31,000 / month + HRA & Annual Contingency ₹20,000",
+      "durationYears": 5,
+      "startDate": "2024-09-01",
+      "joiningStatus": "Active Fellow",
+      "requiredDocuments": [
+        {
+          "code": "joining_report",
+          "title": "Department Joining Report signed by HoD",
+          "submitted": true,
+          "verified": true,
+          "remarks": "Verified by MoTA desk on 2024-10-05"
+        },
+        {
+          "code": "undertaking_bond",
+          "title": "Fellowship Undertaking Bond on Stamp Paper",
+          "submitted": true,
+          "verified": true,
+          "remarks": "Verified and registered"
+        },
+        {
+          "code": "mandate_form",
+          "title": "PFMS Bank Mandate Form with Branch Seal",
+          "submitted": true,
+          "verified": true,
+          "remarks": "Direct Benefit Transfer seeded"
+        }
+      ],
+      "remarks": "Fellowship activated. Regular semi-annual progress reports required.",
+      "updatedAt": "2025-01-20T10:00:00.000Z"
+    }
+  ],
+  "progressRecords": [
+    {
+      "id": "prog_1",
+      "applicationId": "app_11",
+      "semesterOrYear": "Semester 1 (Aug 2024 - Jan 2025)",
+      "progressTitle": "Literature Survey & Ethnobotanical Field Work in Dumka",
+      "researchSummary": "Completed cataloguing of 42 indigenous medicinal plant species documented in Santhal folk medicine with verified herbarium vouchers.",
+      "supervisorRemarks": "Excellent progress. Research work is on schedule and candidate has published one peer-reviewed symposium paper.",
+      "officerApprovalStatus": "Approved",
+      "officerRemarks": "Approved for fellowship continuation into Semester 2.",
+      "submittedAt": "2025-01-15T10:00:00.000Z",
+      "approvedAt": "2025-01-20T14:00:00.000Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif_1",
+      "userId": "usr_applicant_0",
+      "title": "NFST Fellowship Continuation Approved",
+      "message": "Your Semester 1 progress report has been approved by the Ministry of Tribal Affairs officer.",
+      "type": "success",
+      "relatedApplicationId": "app_11",
+      "linkUrl": "/applicant/post-selection",
+      "isRead": false,
+      "createdAt": "2025-01-20T14:05:00.000Z"
+    },
+    {
+      "id": "notif_2",
+      "userId": "usr_applicant_0",
+      "title": "Application NFST-2025-001 Verified",
+      "message": "Your documents for application NFST-2025-001 have been successfully verified.",
+      "type": "info",
+      "relatedApplicationId": "app_1",
+      "linkUrl": "/applicant/applications/app_1",
+      "isRead": true,
+      "createdAt": "2025-01-18T15:00:00.000Z"
+    },
+    {
+      "id": "notif_3",
+      "userId": "usr_applicant_1",
+      "title": "Action Required: Deficiency Raised on NOS-2025-002",
+      "message": "Verification Officer noted missing passport copy. Please resolve before 15 Feb 2025.",
+      "type": "warning",
+      "relatedApplicationId": "app_2",
+      "linkUrl": "/applicant/deficiencies",
+      "isRead": false,
+      "createdAt": "2025-01-22T16:05:00.000Z"
+    }
+  ],
+  "communications": [
+    {
+      "id": "comm_1",
+      "applicationId": "app_2",
+      "senderId": "usr_officer_0",
+      "senderName": "Dr. Anita Meena",
+      "senderRole": "officer",
+      "recipientId": "usr_applicant_1",
+      "recipientName": "Sunita Kerketta",
+      "recipientRole": "applicant",
+      "message": "Dear Sunita, please upload a clear scanned copy of your valid Indian Passport under the Deficiency Resolution tab so your NOS overseas application can proceed.",
+      "linkedDeficiencyId": "def_2_passport",
+      "createdAt": "2025-01-22T16:10:00.000Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "audit_init",
+      "userEmail": "admin@demo.com",
+      "userRole": "admin",
+      "action": "SYSTEM_SEED",
+      "entityType": "System",
+      "entityId": "ROOT",
+      "newValue": {
+        "status": "Database initialized with demo schemes, rules and applications."
+      },
+      "ipAddress": "127.0.0.1",
+      "timestamp": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "audit_sub_1",
+      "userEmail": "applicant@demo.com",
+      "userRole": "applicant",
+      "action": "SUBMIT_APPLICATION",
+      "entityType": "Application",
+      "entityId": "app_1",
+      "newValue": {
+        "applicationNumber": "NFST-2025-001",
+        "scheme": "NFST"
+      },
+      "ipAddress": "192.168.1.15",
+      "timestamp": "2025-01-16T10:15:00.000Z"
+    },
+    {
+      "id": "audit_verif_1",
+      "userEmail": "officer@demo.com",
+      "userRole": "officer",
+      "action": "VERIFY_DOCUMENT",
+      "entityType": "Document",
+      "entityId": "doc_1_st",
+      "previousValue": {
+        "verificationStatus": "Pending"
+      },
+      "newValue": {
+        "verificationStatus": "Verified",
+        "remarks": "ST Certificate verified against SDO portal."
+      },
+      "ipAddress": "10.0.0.4",
+      "timestamp": "2025-01-18T14:30:00.000Z"
+    },
+    {
+      "userId": "usr_applicant_0",
+      "userEmail": "applicant@demo.com",
+      "userRole": "applicant",
+      "action": "USER_LOGIN",
+      "entityType": "User",
+      "entityId": "usr_applicant_0",
+      "newValue": {
+        "loginTime": "2026-09-30T13:51:38.635Z"
+      },
+      "ipAddress": "127.0.0.1",
+      "id": "audit_1790776298635_1curf7",
+      "timestamp": "2026-09-30T13:51:38.635Z"
+    },
+    {
+      "userId": "usr_applicant_0",
+      "userEmail": "applicant@demo.com",
+      "userRole": "applicant",
+      "action": "CREATE_DRAFT_APPLICATION",
+      "entityType": "Application",
+      "entityId": "app_1790776314295_80or9",
+      "newValue": {
+        "applicationNumber": "NFST-2026-012",
+        "scheme": "NFST"
+      },
+      "ipAddress": "127.0.0.1",
+      "id": "audit_1790776314297_z1v89j",
+      "timestamp": "2026-09-30T13:51:54.297Z"
+    },
+    {
+      "userId": "usr_applicant_0",
+      "userEmail": "applicant@demo.com",
+      "userRole": "applicant",
+      "action": "CREATE_DRAFT_APPLICATION",
+      "entityType": "Application",
+      "entityId": "app_1790776442974_b5a0o",
+      "newValue": {
+        "applicationNumber": "NFST-2026-013",
+        "scheme": "NFST"
+      },
+      "ipAddress": "127.0.0.1",
+      "id": "audit_1790776442976_mcblq7",
+      "timestamp": "2026-09-30T13:54:02.976Z"
+    },
+    {
+      "userId": "usr_1790776522723_ghcf1",
+      "userEmail": "rahul@gmail.com",
+      "userRole": "applicant",
+      "action": "USER_REGISTER",
+      "entityType": "User",
+      "entityId": "usr_1790776522723_ghcf1",
+      "newValue": {
+        "email": "rahul@gmail.com",
+        "role": "applicant"
+      },
+      "ipAddress": "127.0.0.1",
+      "id": "audit_1790776522726_b8hls4",
+      "timestamp": "2026-09-30T13:55:22.726Z"
+    },
+    {
+      "userId": "usr_1790776522723_ghcf1",
+      "userEmail": "rahul@gmail.com",
+      "userRole": "applicant",
+      "action": "CREATE_DRAFT_APPLICATION",
+      "entityType": "Application",
+      "entityId": "app_1790776536027_ulzos",
+      "newValue": {
+        "applicationNumber": "NFST-2026-014",
+        "scheme": "NFST"
+      },
+      "ipAddress": "127.0.0.1",
+      "id": "audit_1790776536029_awz2zr",
+      "timestamp": "2026-09-30T13:55:36.029Z"
+    },
+    {
+      "userId": "usr_officer_0",
+      "userEmail": "officer@demo.com",
+      "userRole": "officer",
+      "action": "USER_LOGIN",
+      "entityType": "User",
+      "entityId": "usr_officer_0",
+      "newValue": {
+        "loginTime": "2026-09-30T13:55:47.435Z"
+      },
+      "ipAddress": "127.0.0.1",
+      "id": "audit_1790776547435_tsy97w",
+      "timestamp": "2026-09-30T13:55:47.435Z"
+    },
+    {
+      "userId": "usr_applicant_0",
+      "userEmail": "applicant@demo.com",
+      "userRole": "applicant",
+      "action": "USER_LOGIN",
+      "entityType": "User",
+      "entityId": "usr_applicant_0",
+      "newValue": {
+        "loginTime": "2026-09-30T13:56:20.593Z"
+      },
+      "ipAddress": "127.0.0.1",
+      "id": "audit_1790776580593_1fuopk",
+      "timestamp": "2026-09-30T13:56:20.593Z"
+    }
+  ],
+  "aiCache": {}
+}
